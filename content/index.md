@@ -3,8 +3,9 @@ title: salararchives
 ---
 
 
-# hello world
+# Quick access
 [[homeserver_lan]]
 
 
 [[homeserver_public]]
+
