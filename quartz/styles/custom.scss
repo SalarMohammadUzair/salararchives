@@ -1,3 +1,18 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Hide the default Quartz footer content
+footer > p,
+footer > ul {
+  display: none;
+}
+
+// Replace with custom text
+footer::before {
+  content: "In Service of the Khilafat";
+  display: block;
+  text-align: left;
+  color: var(--dark);
+  font-weight: 600;
+}
