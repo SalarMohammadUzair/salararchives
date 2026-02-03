@@ -1,5 +1,5 @@
 ---
-title: Homeserver Services
+title: homeserver lan
 ---
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">

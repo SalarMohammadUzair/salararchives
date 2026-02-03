@@ -1,7 +1,10 @@
 ---
-title: Welcome to Quartz
+title: salararchives
 ---
 
 
 # hello world
-[[homeserver ( private)]]
+[[homeserver_lan]]
+
+
+[[homeserver_public]]
