@@ -29,6 +29,9 @@ export default {
       lightMode: "روشن موڈ",
       darkMode: "تاریک موڈ",
     },
+    readerMode: {
+      title: "ریڈر موڈ",
+    },
     explorer: {
       title: "ایکسپلورر",
     },
