@@ -15,10 +15,8 @@ title: salararchives
 > * [CasaOS](http://192.168.1.15:8002/#/)
 
 > [!example] Archive
-> * [[Physics Mocks]]
-> * [[Math Cheat Sheet]]
-> * [[Computer Science Project]]
-> * [Past Papers (External)](https://gceguide.com...)
+> * [mf19](https://www.cambridgeinternational.org/Images/417318-list-of-formulae-and-statistical-tables.pdf)
+> * [math syllabus](https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf)
 > * [[Gameplan]] for quran
 
 
