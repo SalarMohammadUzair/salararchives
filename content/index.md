@@ -19,6 +19,9 @@ title: salararchives
 > * [[Math Cheat Sheet]]
 > * [[Computer Science Project]]
 > * [Past Papers (External)](https://gceguide.com...)
+> * [[Gameplan]] for quran
+
+
 
 > [!quote] Quick Notes
 > * Allah's warrior, destined for greatness, and Allah does not forsake his warriors

@@ -1,6 +1,6 @@
 ---
 title: GamePlan
-draft: true
+draft: false
 tags:
 ---
  
