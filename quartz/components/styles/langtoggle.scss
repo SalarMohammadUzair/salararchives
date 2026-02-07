@@ -1,0 +1,30 @@
+.langtoggle {
+  cursor: pointer;
+  padding: 0;
+  position: relative;
+  background: none;
+  border: none;
+  width: 20px;
+  height: 32px;
+  margin: 0;
+  text-align: inherit;
+  flex-shrink: 0;
+
+  .lang-icon {
+    position: absolute;
+    top: calc(50% - 8px);
+    left: 0;
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--darkgray);
+    letter-spacing: -0.02em;
+    line-height: 1;
+    transition: opacity 0.15s ease;
+  }
+}
+
+:root .langtoggle .lang-en { display: inline; }
+:root .langtoggle .lang-ur { display: none; }
+
+:root[saved-lang="ur"] .langtoggle .lang-en { display: none; }
+:root[saved-lang="ur"] .langtoggle .lang-ur { display: inline; }
