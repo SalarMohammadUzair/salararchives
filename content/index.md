@@ -3,13 +3,14 @@ title: salararchives
 ---
 
 ---
-# Shah man 
+
+## cool fact : you can change the language from as well! try out the english version.
 
 # Quick Access
 
 > [!danger] Homeserver
-> * [Public](/homeserver_public)
-> * [Lan](/homeserver_lan)
+> * [Public](homeserver_public)
+> * [Lan](homeserver_lan)
 > * [ZimaOS](http://192.168.1.178:8002/#/)
 > * [CasaOS](http://192.168.1.15:8002/#/)
 
