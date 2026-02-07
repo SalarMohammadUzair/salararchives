@@ -1,4 +1,4 @@
-const currentLang = localStorage.getItem("lang") ?? "en"
+const currentLang = localStorage.getItem("lang") ?? "ur"
 document.documentElement.setAttribute("saved-lang", currentLang)
 
 const urTranslations: Record<string, string> = {
@@ -57,11 +57,11 @@ function applyLang(lang: string) {
 }
 
 document.addEventListener("nav", () => {
-  const lang = document.documentElement.getAttribute("saved-lang") ?? "en"
+  const lang = document.documentElement.getAttribute("saved-lang") ?? "ur"
   applyLang(lang)
 
   const switchLang = () => {
-    const current = document.documentElement.getAttribute("saved-lang") ?? "en"
+    const current = document.documentElement.getAttribute("saved-lang") ?? "ur"
     const newLang = current === "en" ? "ur" : "en"
     localStorage.setItem("lang", newLang)
     applyLang(newLang)
