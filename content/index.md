@@ -9,15 +9,15 @@ title: salararchives
 # Quick Access
 
 > [!danger] Homeserver
-> * [Public]([[homeserver_public]])
-> * [Lan]([[homeserver_lan]])
+> * [Public](/homeserver_public)
+> * [Lan](/homeserver_lan)
 > * [ZimaOS](http://192.168.1.178:8002/#/)
 > * [CasaOS](http://192.168.1.15:8002/#/)
 
 > [!example] Archive
 > * [mf19](https://www.cambridgeinternational.org/Images/417318-list-of-formulae-and-statistical-tables.pdf)
 > * [math syllabus](https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf)
-> * [[Gameplan]] for quran
+> * [Gameplan](Quran/Gameplan.md) for quran
 
 
 

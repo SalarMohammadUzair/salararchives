@@ -13,7 +13,5 @@ We document our understanding, and then we invite critique. that is it
 # here is the index if you want to see more
 
 > [!info] Chapters
-> * [[1. Surah Baqarah (The Cow) ]]
-> *  [rocketrevise](https://rocketrevise.com/)
-> * [checkdiscord](https://discord.gg/cV9DX3PsRD)
+> * [[2-Al-baqarah]]
 
