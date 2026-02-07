@@ -30,7 +30,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
+        segments.push(
+          <span style="unicode-bidi: isolate; direction: ltr;">
+            <Date date={getDate(cfg, fileData)!} locale={cfg.locale} />
+          </span>
+        )
       }
 
       // Display reading time if enabled
@@ -39,7 +43,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(<span>{displayedTime}</span>)
+        segments.push(<span style="unicode-bidi: isolate;">{displayedTime}</span>)
       }
 
       return (

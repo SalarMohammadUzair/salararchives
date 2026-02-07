@@ -2,35 +2,77 @@
 
 // put your custom CSS here!
 
-// Load custom font
-@font-face {
-  font-family: 'Alkhemikal';
-  src: url('/static/fonts/Alkhemikal.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
 
-// Apply to entire site
+
+// 1. Grand Archive Scaling
 body, html {
-  font-family: 'Alkhemikal', sans-serif !important;
+  font-size: 17px;       // Was 20px — now just slightly larger than default 16px
+  font-variant-ligatures: common-ligatures;
+  -webkit-font-smoothing: antialiased;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Alkhemikal', sans-serif !important;
+article p, article li {
+  line-height: 1.75;     // More breathing room
+  font-size: 1.2rem;     // Larger body text
+  letter-spacing: 0.01em;
 }
 
-// Hide the default Quartz footer content
+h1 { font-size: 3rem !important; margin-top: 2rem; }
+h2 { font-size: 2.2rem !important; margin-top: 1.8rem; }
+h3 { font-size: 1.8rem !important; }
+h4 { font-size: 1.5rem !important; }
+
+// Scale up the site title in the sidebar
+.page-title {
+  font-size: 2.2rem !important;
+}
+
+// 2. Hero Banner (for the homepage)
+.hero-banner {
+  text-align: center;
+  padding: 2.5rem 1.5rem 2rem;
+  margin-bottom: 2rem;
+  border-radius: 14px;
+  background: linear-gradient(135deg, var(--lightgray) 0%, transparent 100%);
+  border: 1px solid var(--lightgray);
+
+  h1 {
+    font-size: 2.6rem;
+    margin: 0;
+    color: var(--secondary);
+  }
+
+  .hero-subtitle {
+    font-size: 0.95rem;
+    color: var(--gray);
+    margin-top: 0.5rem;
+    font-style: italic;
+  }
+}
+
+// 3. Smooth Transitions
+article {
+  animation: fadeSlideIn 0.35s ease-out;
+}
+
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+// 4. Footer Polish
 footer > p,
 footer > ul {
   display: none;
 }
 
-// Replace with custom text
 footer::before {
-  content: "In Service of the Khilafat";
+  content: "In Service of the Khilafat ☪";
   display: block;
-  text-align: left;
-  color: var(--dark);
+  text-align: center;
+  color: var(--gray);
   font-weight: 600;
+  font-size: 0.9rem;
+  padding: 1rem 0;
+  letter-spacing: 0.05em;
 }

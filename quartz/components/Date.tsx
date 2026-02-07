@@ -18,14 +18,25 @@ export function getDate(cfg: GlobalConfiguration, data: QuartzPluginData): Date 
   return data.dates?.[cfg.defaultDateType]
 }
 
+const urduMonths = [
+  "جنوری", "فروری", "مارچ", "اپریل", "مئی", "جون",
+  "جولائی", "اگست", "ستمبر", "اکتوبر", "نومبر", "دسمبر",
+]
+
 export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
-  return d.toLocaleDateString(locale, {
-    year: "numeric",
-    month: "short",
-    day: "2-digit",
-  })
+  const day = d.getDate()
+  const month = urduMonths[d.getMonth()]
+  const year = d.getFullYear()
+  return `${month} ${day} ${year}`
 }
 
 export function Date({ date, locale }: Props) {
-  return <time datetime={date.toISOString()}>{formatDate(date, locale)}</time>
+  const month = urduMonths[date.getMonth()]
+  const day = date.getDate()
+  const year = date.getFullYear()
+  return (
+    <time datetime={date.toISOString()}>
+      {month} {day} {year}
+    </time>
+  )
 }
