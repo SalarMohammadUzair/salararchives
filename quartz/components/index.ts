@@ -24,6 +24,8 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import FeaturedNotes from "./FeaturedNotes"
+// ... add to exports
 
 export {
   ArticleTitle,
@@ -52,4 +54,5 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  FeaturedNotes,
 }

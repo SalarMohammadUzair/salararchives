@@ -1,5 +1,22 @@
 @use "./base.scss";
 
+// Load Vazirmatn for Urdu UI text (using @font-face instead of @import to avoid rule ordering issues)
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/vazirmatn/v13/Dxx78j6PP2D_kU2mukvTEhwdIz5K.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/vazirmatn/v13/Dxx78j6PP2D_kU2mukvTEhwdI1JO.woff2) format('woff2');
+}
+
 // 1. Archive Scaling — only on article content, not the whole page
 article p, article li {
   line-height: 1.75;
@@ -52,15 +69,34 @@ footer > ul {
 }
 
 footer::before {
-  content: "In Service of the Khilafat ";
   display: block;
   text-align: center;
-  color: var(--dark);
   font-weight: 700;
   font-size: 1.05rem;
   padding: 1.5rem 0;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+  color: var(--dark);
+  content: "In Service of the Khilafat";
+}
+
+:root[saved-lang="ur"] footer::before {
+  content: "خدمتِ خلافت ہمارا مقصد";
+  direction: rtl;
+  text-transform: none;
+  letter-spacing: 0;
+  font-family: "Vazirmatn", sans-serif;
+}
+
+// Apply Vazirmatn to all UI text when Urdu is active
+:root[saved-lang="ur"] .page-title,
+:root[saved-lang="ur"] .explorer h2,
+:root[saved-lang="ur"] .graph > h3,
+:root[saved-lang="ur"] .backlinks > h3,
+:root[saved-lang="ur"] button.toc-header h3,
+:root[saved-lang="ur"] .search-button > p {
+  font-family: "Vazirmatn", sans-serif;
+  direction: rtl;
 }
 
 // ===== 5. Stars Background — Dark Mode Only =====

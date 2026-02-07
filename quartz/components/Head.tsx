@@ -50,6 +50,10 @@ export default (() => {
             )}
           </>
         )}
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap"
+        />
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
