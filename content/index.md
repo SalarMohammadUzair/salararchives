@@ -4,7 +4,7 @@ image: /assets/rafael.png
 ---
 
 ---
-![[rafael.png]]
+
 ## cool fact : you can change the language from as well! try out the english version.
 
 # Quick Access
