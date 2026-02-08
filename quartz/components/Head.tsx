@@ -101,6 +101,8 @@ export default (() => {
             return resource
           }
         })}
+        {/* Add your HTML verification tag here */}
+        <meta name="google-site-verification" content="v4vAY7Lurs3_LskNHaSstTuqjzgG28mcTXHOgsh7JQU" />
       </head>
     )
   }
