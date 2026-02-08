@@ -1,5 +1,6 @@
 ---
 title: salararchives
+image: /assets/rafael.png
 ---
 
 ---
