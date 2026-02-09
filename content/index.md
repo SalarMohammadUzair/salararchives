@@ -26,5 +26,10 @@ socialImage: /assets/rafael.png
 > * Allah's warrior, destined for greatness, and Allah does not forsake his warriors
 > * For the Love of khilafat
 
+____
+> [!quote] Quick Links
+> - [Briggz the Zombie Killer](https://briggz-the-zombie-killer.example)  
+> - [CanIListen](http://canilisten.salarmuzair.tech/)  
+> - [Khilafat](https://www.khilafat.foo/)
 
 
