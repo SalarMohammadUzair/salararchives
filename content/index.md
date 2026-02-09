@@ -32,81 +32,58 @@ ____
 > - [CanIListen](http://canilisten.salarmuzair.tech/)  
 > - [Khilafat](https://www.khilafat.foo/)
 
-<section class="mixed-grid">
 
-  <a href="https://www.khilafat.foo/" class="card big">
-    <div class="overlay">
-      <img src="https://www.google.com/s2/favicons?sz=128&domain=khilafat.foo">
-      <h3>Khilafat</h3>
-      <p>Personal dashboard</p>
-    </div>
-  </a>
 
-  <a href="http://canilisten.salarmuzair.tech/" class="card">
-    <div class="overlay">
-      <img src="https://www.google.com/s2/favicons?sz=128&domain=salarmuzair.tech">
-      <h3>CanIListen</h3>
-      <p>Lyrics analysis project</p>
-    </div>
-  </a>
 
-  <a href="/briggz-the-zombie-killer" class="card">
-    <div class="overlay">
-      <img src="https://www.google.com/s2/favicons?sz=128&domain=khilafat.foo">
-      <h3>Briggz the Zombie Killer</h3>
-      <p>Zombie game project</p>
-    </div>
-  </a>
+<div class="project-cards">
 
-</section>
+<a href="https://www.khilafat.foo/" class="project-card">
+  <h3>Khilafat</h3>
+  <p>Personal dashboard</p>
+</a>
+
+<a href="http://canilisten.salarmuzair.tech/" class="project-card">
+  <h3>CanIListen</h3>
+  <p>Lyrics analysis project</p>
+</a>
+
+<a href="/briggz-the-zombie-killer" class="project-card">
+  <h3>Briggz the Zombie Killer</h3>
+  <p>Zombie game project</p>
+</a>
+
+</div>
 
 <style>
-/* Fix Quartz container conflicts */
-.mixed-grid{
-  width:100%;
-  max-width:1100px;
-  margin:40px auto;
+.project-cards{
   display:grid;
-  grid-template-columns:2fr 1fr;
-  gap:20px;
+  grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+  gap:18px;
+  margin:30px 0;
 }
 
-/* Card */
-.card{
-  background:#0f1116;
-  border-radius:16px;
-  padding:24px;
+.project-card{
+  padding:22px;
+  border-radius:14px;
+  background:rgba(20,25,35,.85);
+  border:1px solid rgba(255,255,255,.08);
   text-decoration:none;
   color:white;
-  min-height:180px;
-  display:flex;
-  align-items:flex-end;
+  transition:.2s;
 }
 
-/* Big card */
-.big{
-  grid-row:span 2;
-  min-height:400px;
+.project-card:hover{
+  transform:translateY(-4px);
+  background:rgba(35,45,65,.95);
+  border-color:rgba(255,255,255,.15);
 }
 
-/* Overlay */
-.overlay img{
-  width:42px;
-  height:42px;
-  border-radius:10px;
-  margin-bottom:10px;
+.project-card h3{
+  margin:0 0 6px;
 }
 
-/* Mobile */
-@media (max-width:800px){
-  .mixed-grid{
-    grid-template-columns:1fr;
-  }
-  .big{
-    min-height:220px;
-  }
+.project-card p{
+  opacity:.7;
+  font-size:.9rem;
 }
 </style>
-
-
-
