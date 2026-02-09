@@ -34,7 +34,6 @@ ____
 
 <section class="mixed-grid">
 
-  <!-- BIG card -->
   <a href="https://www.khilafat.foo/" class="card big">
     <div class="overlay">
       <img src="https://www.google.com/s2/favicons?sz=128&domain=khilafat.foo">
@@ -43,8 +42,7 @@ ____
     </div>
   </a>
 
-  <!-- SMALL cards -->
-  <a href="http://canilisten.salarmuzair.tech/" class="card small">
+  <a href="http://canilisten.salarmuzair.tech/" class="card">
     <div class="overlay">
       <img src="https://www.google.com/s2/favicons?sz=128&domain=salarmuzair.tech">
       <h3>CanIListen</h3>
@@ -52,7 +50,7 @@ ____
     </div>
   </a>
 
-  <a href="/briggz-the-zombie-killer" class="card small">
+  <a href="/briggz-the-zombie-killer" class="card">
     <div class="overlay">
       <img src="https://www.google.com/s2/favicons?sz=128&domain=khilafat.foo">
       <h3>Briggz the Zombie Killer</h3>
@@ -63,21 +61,24 @@ ____
 </section>
 
 <style>
+/* Fix Quartz container conflicts */
 .mixed-grid{
+  width:100%;
+  max-width:1100px;
+  margin:40px auto;
   display:grid;
   grid-template-columns:2fr 1fr;
-  gap:18px;
+  gap:20px;
 }
 
-/* Card look */
+/* Card */
 .card{
-  position:relative;
-  height:220px;
-  border-radius:18px;
-  background:#111;
-  overflow:hidden;
+  background:#0f1116;
+  border-radius:16px;
+  padding:24px;
   text-decoration:none;
   color:white;
+  min-height:180px;
   display:flex;
   align-items:flex-end;
 }
@@ -85,28 +86,25 @@ ____
 /* Big card */
 .big{
   grid-row:span 2;
-  height:460px;
+  min-height:400px;
 }
 
 /* Overlay */
-.overlay{
-  width:100%;
-  padding:18px;
-  background:linear-gradient(transparent,rgba(0,0,0,.85));
-}
-
-/* Favicon style */
 .overlay img{
-  width:40px;
-  height:40px;
+  width:42px;
+  height:42px;
   border-radius:10px;
-  margin-bottom:8px;
+  margin-bottom:10px;
 }
 
 /* Mobile */
-@media(max-width:800px){
-  .mixed-grid{grid-template-columns:1fr;}
-  .big{height:260px;}
+@media (max-width:800px){
+  .mixed-grid{
+    grid-template-columns:1fr;
+  }
+  .big{
+    min-height:220px;
+  }
 }
 </style>
 
