@@ -5,7 +5,15 @@ socialImage: /assets/rafael.png
 
 ---
 
-## cool fact : you can change the language from as well! try out the english version.
+<div align="center">
+
+Before the hour hits 12 tonight<br>
+Before we decease into the night<br>
+O Allah<br>
+Shall the khilafat be always unite
+
+</div>
+
 
 # Quick Access
 
