@@ -4,7 +4,13 @@ socialImage: /assets/rafael.png
 ---
 
 ---
-<video src="/assets/it-is-time-to-triumph.mp4" autoplay loop muted playsinline width="700"></video>
+<video 
+  src="/assets/it-is-time-to-triumph.mp4"
+  controls
+  loop
+  playsinline
+  style="width: 700px;">
+</video>
 
 ____
 
