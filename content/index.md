@@ -4,9 +4,7 @@ socialImage: /assets/rafael.png
 ---
 
 ---
-<video autoplay loop muted playsinline width="700">
-  <source src="/assets/it-is-time-to-triumph.mp4" type="video/mp4">
-</video>
+<video src="/assets/it-is-time-to-triumph.mp4" autoplay loop muted playsinline width="700"></video>
 
 ____
 
