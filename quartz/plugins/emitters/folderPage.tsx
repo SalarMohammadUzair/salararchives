@@ -38,6 +38,12 @@ async function* processFolderInfo(
     const slug = joinSegments(folder, "index") as FullSlug
     const [tree, file] = folderContent
     const cfg = ctx.cfg.configuration
+
+    // Ensure fileData slug matches the folder page slug so that
+    // relative URL resolution works correctly (e.g. when a file like
+    // Quran.md provides content for the Quran/ folder page)
+    file.data.slug = slug
+
     const externalResources = pageResources(pathToRoot(slug), resources)
     const componentData: QuartzComponentProps = {
       ctx,
