@@ -1,3 +1,7 @@
+# SalarArchives
+This is my digital garden, based off of quartz.
+if you want to run your own instance, have a look at the notes below
+____
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
