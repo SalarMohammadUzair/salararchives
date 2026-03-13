@@ -6,7 +6,7 @@ A personal digital garden — a collection of my notes, thoughts, and writing pu
 
 ## What's here
 
-This garden contains notes on topics I'm actively thinking about: mathematics, physics, computer science, Pakistani politics and economics, Islamic history, and more. It's less a polished blog and more a working record of ideas in progress.
+This garden contains notes on topics I'm actively thinking about: Homelabbing, self hosting services and relying less on big tech. It's less a polished blog and more a working record of ideas in progress. 
 
 ## Running your own instance
 
