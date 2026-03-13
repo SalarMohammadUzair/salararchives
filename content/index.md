@@ -34,7 +34,7 @@ Shall the khilafat be always unite
 # Quick Access
 
 > [!quote] Homeserver
-> * [Public](homeserver_public)
+>  
 > * [Lan](homeserver_lan)
 > * [ZimaOS](http://192.168.1.178:8002/#/)
 > * [CasaOS](http://192.168.1.15:8002/#/)
