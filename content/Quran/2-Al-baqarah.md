@@ -440,9 +440,9 @@ Many scholars (such as Ibn Kathir and Al-Tabari) explain that the plural command
 > 
 > (That was because they disobeyed and used to transgress the bounds) mentions another reason why the Children of Israel were punished in this manner, for they used to disobey and transgress the limits. Disobedience is to do what is prohibited, while transgression entails overstepping the set limits of what is allowed and what is prohibited. Allah knows best.
 > 
-> Get Quran App: Quran.gtaf.org
 > 
-> #GreentechApps
+> 
+> 
 
 ### thoughts
 Permanently humiliated for life Allah say
