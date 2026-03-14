@@ -13,12 +13,6 @@ We document our understanding, and then we invite critique. that is it
 
 > * *For the Love of khilafat*
 # here is the index if you want to see more
-
-> [!info] Chapters
->*  [[1-Al-Fatihah]]
-> * [[2-Al-baqarah]]
-
-
-
+![[Quran index]]
 
 
