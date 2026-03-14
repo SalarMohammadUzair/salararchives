@@ -4,7 +4,7 @@ socialImage: /assets/rafael.png
 ---
 
 ---
-<div style="text-align: center;">
+o<div style="text-align: center;">
 
   <video 
     src="/assets/it-is-time-to-triumph.mp4"

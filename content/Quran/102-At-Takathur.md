@@ -18,7 +18,7 @@ title: 102-At-Takathur
 
 # verse 3
 > Nay, but ye will come to know!
-^verse-3
+^verse-3  
 
 ### thoughts
 
