@@ -1,5 +1,0 @@
-
-![[pray.jpg]]
-
----
-![[thesky.jpg]]
