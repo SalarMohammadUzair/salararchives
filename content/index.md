@@ -36,9 +36,9 @@ Shall the khilafat be always unite
 > [!quote] Homeserver
 >  
 > * [Lan](homeserver_lan)
-> * [ZimaOS](http://192.168.1.178:8002/#/)  ( works on LAN only)
-> * [CasaOS](http://192.168.1.15:8002/#/) ( works on LAN only)
+> * 
 > * Go to [homepage](https://www.salarmuzair.tech/)
+
 
 
 
