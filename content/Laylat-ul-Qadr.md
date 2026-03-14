@@ -1,3 +1,12 @@
+---
+title: Laylat-ul-Qadr
+draft: false
+tags:
+  - islam
+---
+ 
+
+
 ## The Quran
 > [!quote] Surah Al-Qadr (97)
 > - 97:1 — Indeed, We sent down the Quran on the Night of Decree.
