@@ -27,8 +27,6 @@ ____
 
 > [!quote] Homeserver
 >  
-> * [Lan](homeserver_lan)
-> * 
 > * Go to [homepage](https://www.salarmuzair.tech/)
 
 
