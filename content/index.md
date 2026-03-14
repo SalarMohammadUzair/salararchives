@@ -2,6 +2,7 @@
 title: salararchives
 socialImage: /assets/rafael.png
 ---
+![[4-An-nisa#^verse-176]]
 
 ---
 <div style="text-align: center;">
