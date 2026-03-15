@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 112-Al-Ikhlas

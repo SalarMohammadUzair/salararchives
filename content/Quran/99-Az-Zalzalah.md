@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 99-Az-Zalzalah

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 83-Al-Mutaffifin

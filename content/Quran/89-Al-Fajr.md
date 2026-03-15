@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 89-Al-Fajr

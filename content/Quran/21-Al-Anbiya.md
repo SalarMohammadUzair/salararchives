@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 21-Al-Anbiya

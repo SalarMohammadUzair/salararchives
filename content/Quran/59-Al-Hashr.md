@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 59-Al-Hashr

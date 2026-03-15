@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 74-Al-Muddaththir

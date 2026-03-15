@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 102-At-Takathur
@@ -51,5 +51,5 @@ title: 102-At-Takathur
 ^verse-8
 
 ### thoughts
-
+for this as well
 

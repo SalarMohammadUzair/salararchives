@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 58-Al-Mujadila
@@ -135,5 +135,5 @@ title: 58-Al-Mujadila
 ^verse-22
 
 ### thoughts
-
+the file size should increase
 

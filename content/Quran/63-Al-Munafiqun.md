@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 63-Al-Munafiqun

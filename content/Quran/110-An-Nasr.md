@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 110-An-Nasr

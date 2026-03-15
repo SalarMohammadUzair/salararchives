@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 101-Al-Qariah

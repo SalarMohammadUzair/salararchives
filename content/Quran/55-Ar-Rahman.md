@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 55-Ar-Rahman

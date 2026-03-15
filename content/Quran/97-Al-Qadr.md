@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 97-Al-Qadr

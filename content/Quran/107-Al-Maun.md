@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 107-Al-Maun

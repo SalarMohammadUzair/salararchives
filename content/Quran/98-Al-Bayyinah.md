@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 98-Al-Bayyinah

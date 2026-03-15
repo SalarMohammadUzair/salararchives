@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 114-An-nas

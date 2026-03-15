@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 93-Ad-Duhaa

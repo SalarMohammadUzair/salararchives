@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 67-Al-Mulk

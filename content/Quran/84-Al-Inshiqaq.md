@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 84-Al-Inshiqaq

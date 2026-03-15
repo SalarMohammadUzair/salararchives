@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 2-Al-baqarah

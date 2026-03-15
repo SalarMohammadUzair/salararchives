@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 111-Al-Masad

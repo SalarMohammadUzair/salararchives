@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 109-Al-Kafirun

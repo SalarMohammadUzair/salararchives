@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 68-Al-Qalam

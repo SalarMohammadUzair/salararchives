@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 45-Al-Jathiyah

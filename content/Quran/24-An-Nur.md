@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 24-An-Nur

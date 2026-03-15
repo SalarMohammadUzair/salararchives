@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 18-Al-Kahf

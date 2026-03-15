@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - quran
 title: 26-Ash-Shuara
