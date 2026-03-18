@@ -5,7 +5,8 @@ tags:
   - iqbal
 ---
  
-
+What does it all lead to?
+[[Even the water is subdued]]
 
 
 ## **با نشئۂ درویشی در ساز و دمادم زن** **چون پختہ شوی خود را بر سلطنتِ جم زن**
