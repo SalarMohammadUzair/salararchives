@@ -3,6 +3,7 @@ title: kya hai
 draft: false
 tags:
   - iqbal
+banner:
 ---
  
 
