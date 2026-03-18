@@ -1,3 +1,13 @@
+---
+title: Zabur-e-Ajam — Part 2, Ghazal 14
+draft: false
+tags:
+  - iqbal
+---
+ 
+
+
+
 ## **با نشئۂ درویشی در ساز و دمادم زن** **چون پختہ شوی خود را بر سلطنتِ جم زن**
 
 ### Immerse yourself in the intoxication of dervish-hood, and keep drinking it ceaselessly — when you have ripened through it, hurl yourself against the throne of Jamshid.
@@ -40,4 +50,6 @@
 ## **لختِ دلِ پر خونی از دیدہ فرو ریزم** **لعلی ز بدخشانم بردار و بخاتم زن**
 ### I pour out a blood-soaked fragment of my heart through my eyes — here is a ruby from Badakhshan; take it and set it in your ring.
 > The closing sher. Badakhshan in what is now Afghanistan was historically the source of the finest rubies in the world. What Iqbal sheds as tears is not water — it is the bleeding of his heart. And this pain-wrought thing is a gem. He offers it to whoever can recognize its worth. A statement about what genuine poetry costs and the dignity of the poet who pays that price.
+
+
 
