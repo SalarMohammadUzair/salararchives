@@ -44,3 +44,6 @@ ____
 
 Leave reason as a lamp on the roadside — for others to use. But drink the wine of love only with one who is _mahram_, a true intimate.
 This is the epistemological key to the whole vision. The political imagination Iqbal projects — Tehran, unity, overturning the world order — cannot be accessed through strategic calculation alone. It requires a quality of _ishq_ that most political actors, then and now, simply do not possess.
+
+###### conclusively
+And all of it trickles down to one basic fact. The biggest sin a man can commit is to waste his potential. so wake up, realize your potential Scour, do not be bind by any borders or any artificial constructs that limit your potential If you die a man, not realizing your maximum potential, a life of waste you have lived. and it further trickles down to... getting all _4A*s in a levels. nothing else matters_ 
