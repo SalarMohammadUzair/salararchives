@@ -3,6 +3,8 @@ tags:
   - quran
 title: 98-Al-Bayyinah
 urdu_title: سورة البينة
+en_translation: The Evidence
+ur_translation: کھلی دلیل
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 52-At-Tur
 urdu_title: سورة الطور
+en_translation: The Mount
+ur_translation: کوہِ طور
 ---
 
 # verse 1

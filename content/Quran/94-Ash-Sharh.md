@@ -3,6 +3,8 @@ tags:
   - quran
 title: 94-Ash-Sharh
 urdu_title: سورة الشرۡح
+en_translation: The Consolation
+ur_translation: سینہ کشادہ کرنا
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 16-An-Nahl
 urdu_title: سورة النحۡل
+en_translation: The Bee
+ur_translation: شہد کی مکھی
 ---
 
 # verse 1

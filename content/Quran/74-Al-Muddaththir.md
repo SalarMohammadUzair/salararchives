@@ -3,6 +3,8 @@ tags:
   - quran
 title: 74-Al-Muddaththir
 urdu_title: سورة المدثر
+en_translation: The Cloaked One
+ur_translation: لبادہ اوڑھنے والا
 ---
 
 # verse 1

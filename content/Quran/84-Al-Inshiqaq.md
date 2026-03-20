@@ -3,6 +3,8 @@ tags:
   - quran
 title: 84-Al-Inshiqaq
 urdu_title: سورة الانشقاق
+en_translation: The Splitting Open
+ur_translation: شق ہو جانا
 ---
 
 # verse 1

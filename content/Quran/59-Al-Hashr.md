@@ -3,6 +3,8 @@ tags:
   - quran
 title: 59-Al-Hashr
 urdu_title: سورة الحشۡر
+en_translation: The Exile
+ur_translation: جلاوطنی
 ---
 
 # verse 1

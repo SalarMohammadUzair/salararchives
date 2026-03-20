@@ -3,6 +3,8 @@ tags:
   - quran
 title: 85-Al-Buruj
 urdu_title: سورة البروج
+en_translation: The Constellations
+ur_translation: مضبوط قلعے
 ---
 
 # verse 1

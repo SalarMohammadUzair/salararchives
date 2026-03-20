@@ -3,6 +3,8 @@ tags:
   - quran
 title: 64-At-Taghabun
 urdu_title: سورة التغابن
+en_translation: Mutual Disillusion
+ur_translation: ہار جیت
 ---
 
 # verse 1

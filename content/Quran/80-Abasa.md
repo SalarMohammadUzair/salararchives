@@ -3,6 +3,8 @@ tags:
   - quran
 title: 80-Abasa
 urdu_title: سورة عبس
+en_translation: He frowned
+ur_translation: اس نے تیوری چڑھائی
 ---
 
 # verse 1

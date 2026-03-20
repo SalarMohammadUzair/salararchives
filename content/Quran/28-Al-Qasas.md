@@ -3,6 +3,8 @@ tags:
   - quran
 title: 28-Al-Qasas
 urdu_title: سورة القصص
+en_translation: The Stories
+ur_translation: قصے
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 40-Ghafir
 urdu_title: سورة غافر
+en_translation: The Forgiver
+ur_translation: بخشنے والا
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 43-Az-Zukhruf
 urdu_title: سورة الزخۡرف
+en_translation: Ornaments of gold
+ur_translation: سونے کا زیور
 ---
 
 # verse 1

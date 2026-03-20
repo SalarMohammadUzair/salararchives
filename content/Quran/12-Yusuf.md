@@ -3,6 +3,8 @@ tags:
   - quran
 title: 12-Yusuf
 urdu_title: سورة يوسف
+en_translation: Joseph
+ur_translation: یوسف
 ---
 
 # verse 1

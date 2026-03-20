@@ -3,6 +3,8 @@ tags:
   - quran
 title: 100-Al-Adiyat
 urdu_title: سورة العاديات
+en_translation: The Chargers
+ur_translation: دوڑنے والے گھوڑے
 ---
 
 # verse 1

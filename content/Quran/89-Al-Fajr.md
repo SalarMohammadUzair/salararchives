@@ -3,6 +3,8 @@ tags:
   - quran
 title: 89-Al-Fajr
 urdu_title: سورة الفجۡر
+en_translation: The Dawn
+ur_translation: فجر
 ---
 
 # verse 1

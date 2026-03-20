@@ -3,6 +3,8 @@ tags:
   - quran
 title: 30-Ar-Rum
 urdu_title: سورة الروم
+en_translation: The Romans
+ur_translation: روم
 ---
 
 # verse 1

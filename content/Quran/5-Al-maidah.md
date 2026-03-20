@@ -3,6 +3,8 @@ tags:
   - quran
 title: 5-Al-maidah
 urdu_title: سورة المائـدة
+en_translation: The Table
+ur_translation: دسترخوان
 ---
 
 # verse 1

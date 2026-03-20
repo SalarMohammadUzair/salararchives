@@ -3,6 +3,8 @@ tags:
   - quran
 title: 15-Al-Hijr
 urdu_title: سورة الحجۡر
+en_translation: The Rock
+ur_translation: وادی حجر
 ---
 
 # verse 1

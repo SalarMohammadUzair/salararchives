@@ -3,6 +3,8 @@ tags:
   - quran
 title: 65-At-Talaq
 urdu_title: سورة الطلاق
+en_translation: Divorce
+ur_translation: طلاق
 ---
 
 # verse 1

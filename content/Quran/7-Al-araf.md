@@ -3,6 +3,8 @@ tags:
   - quran
 title: 7-Al-araf
 urdu_title: سورة الأعۡراف
+en_translation: The Heights
+ur_translation: بلندیاں
 ---
 
 # verse 1

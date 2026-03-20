@@ -3,6 +3,8 @@ tags:
   - quran
 title: 51-Adh-Dhariyat
 urdu_title: سورة الذاريات
+en_translation: The Winnowing Winds
+ur_translation: بکھیرنے والی ہوائیں
 ---
 
 # verse 1

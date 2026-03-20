@@ -3,6 +3,8 @@ tags:
   - quran
 title: 37-As-Saffat
 urdu_title: سورة الصافات
+en_translation: Those drawn up in Ranks
+ur_translation: صفیں باندھنے والے
 ---
 
 # verse 1

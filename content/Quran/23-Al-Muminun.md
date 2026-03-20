@@ -3,6 +3,8 @@ tags:
   - quran
 title: 23-Al-Muminun
 urdu_title: سورة المؤۡمنون
+en_translation: The Believers
+ur_translation: ایمان والے
 ---
 
 # verse 1

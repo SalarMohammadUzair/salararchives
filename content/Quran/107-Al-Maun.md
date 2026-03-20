@@ -3,6 +3,8 @@ tags:
   - quran
 title: 107-Al-Maun
 urdu_title: سورة الماعون
+en_translation: Almsgiving
+ur_translation: عام استعمال کی چیزیں
 ---
 
 # verse 1

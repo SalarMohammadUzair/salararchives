@@ -3,6 +3,8 @@ tags:
   - quran
 title: 76-Al-Insan
 urdu_title: سورة الإنسان
+en_translation: Man
+ur_translation: انسان
 ---
 
 # verse 1

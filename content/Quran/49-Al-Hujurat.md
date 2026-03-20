@@ -3,6 +3,8 @@ tags:
   - quran
 title: 49-Al-Hujurat
 urdu_title: سورة الحجرات
+en_translation: The Inner Apartments
+ur_translation: حجرے
 ---
 
 # verse 1

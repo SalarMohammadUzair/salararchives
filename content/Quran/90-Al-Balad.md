@@ -3,6 +3,8 @@ tags:
   - quran
 title: 90-Al-Balad
 urdu_title: سورة البلد
+en_translation: The City
+ur_translation: شہر
 ---
 
 # verse 1

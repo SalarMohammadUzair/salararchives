@@ -3,6 +3,8 @@ tags:
   - quran
 title: 92-Al-Lail
 urdu_title: سورة الليۡل
+en_translation: The Night
+ur_translation: رات
 ---
 
 # verse 1

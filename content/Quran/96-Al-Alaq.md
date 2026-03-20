@@ -3,6 +3,8 @@ tags:
   - quran
 title: 96-Al-Alaq
 urdu_title: سورة العلق
+en_translation: The Clot
+ur_translation: جما ہوا خون
 ---
 
 # verse 1

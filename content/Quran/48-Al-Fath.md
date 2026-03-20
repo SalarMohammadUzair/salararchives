@@ -3,6 +3,8 @@ tags:
   - quran
 title: 48-Al-Fath
 urdu_title: سورة الفتۡح
+en_translation: The Victory
+ur_translation: فتح
 ---
 
 # verse 1

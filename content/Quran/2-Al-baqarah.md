@@ -3,6 +3,8 @@ tags:
   - quran
 title: 2-Al-baqarah
 urdu_title: سورة البقرة
+en_translation: The Cow
+ur_translation: گائے
 ---
 
 Allah opens his light to the self aware

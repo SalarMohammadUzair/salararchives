@@ -3,6 +3,8 @@ tags:
   - quran
 title: 86-At-Tariq
 urdu_title: سورة الطارق
+en_translation: The Morning Star
+ur_translation: رات کو نمودار ہونے والا
 ---
 
 # verse 1

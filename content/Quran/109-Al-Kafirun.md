@@ -3,6 +3,8 @@ tags:
   - quran
 title: 109-Al-Kafirun
 urdu_title: سورة الكافرون
+en_translation: The Disbelievers
+ur_translation: انکار کرنے والے
 ---
 
 # verse 1

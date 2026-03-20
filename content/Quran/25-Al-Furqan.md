@@ -3,6 +3,8 @@ tags:
   - quran
 title: 25-Al-Furqan
 urdu_title: سورة الفرۡقان
+en_translation: The Criterion
+ur_translation: حق و باطل کی کسوٹی
 ---
 
 # verse 1

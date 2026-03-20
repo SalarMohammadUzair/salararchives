@@ -3,6 +3,8 @@ tags:
   - quran
 title: 29-Al-Ankabut
 urdu_title: سورة العنكبوت
+en_translation: The Spider
+ur_translation: مکڑی
 ---
 
 # verse 1

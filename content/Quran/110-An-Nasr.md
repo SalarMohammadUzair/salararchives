@@ -3,6 +3,8 @@ tags:
   - quran
 title: 110-An-Nasr
 urdu_title: سورة النصۡر
+en_translation: Divine Support
+ur_translation: مدد
 ---
 
 # verse 1

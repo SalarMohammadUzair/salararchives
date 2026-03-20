@@ -3,6 +3,8 @@ tags:
   - quran
 title: 73-Al-Muzzammil
 urdu_title: سورة المزمل
+en_translation: The Enshrouded One
+ur_translation: چادر اوڑھنے والا
 ---
 
 # verse 1

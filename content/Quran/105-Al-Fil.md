@@ -3,6 +3,8 @@ tags:
   - quran
 title: 105-Al-Fil
 urdu_title: سورة الفيل
+en_translation: The Elephant
+ur_translation: ہاتھی
 ---
 
 # verse 1

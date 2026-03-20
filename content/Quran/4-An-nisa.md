@@ -3,6 +3,8 @@ tags:
   - quran
 title: 4-An-nisa
 urdu_title: سورة النساء
+en_translation: The Women
+ur_translation: عورتیں
 ---
 
 # verse 1

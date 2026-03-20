@@ -3,6 +3,8 @@ tags:
   - quran
 title: 57-Al-Hadid
 urdu_title: سورة الحديد
+en_translation: The Iron
+ur_translation: لوہا
 ---
 
 # verse 1

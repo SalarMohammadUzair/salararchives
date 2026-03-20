@@ -3,6 +3,8 @@ tags:
   - quran
 title: 79-An-Naziat
 urdu_title: سورة النازعات
+en_translation: Those who drag forth
+ur_translation: کھینچنے والے فرشتے
 ---
 
 # verse 1

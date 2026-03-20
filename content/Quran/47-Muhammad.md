@@ -3,6 +3,8 @@ tags:
   - quran
 title: 47-Muhammad
 urdu_title: سورة محمد
+en_translation: Muhammad
+ur_translation: محمد
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 63-Al-Munafiqun
 urdu_title: سورة المنافقون
+en_translation: The Hypocrites
+ur_translation: منافقین
 ---
 
 # verse 1

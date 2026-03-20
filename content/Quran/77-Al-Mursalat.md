@@ -3,6 +3,8 @@ tags:
   - quran
 title: 77-Al-Mursalat
 urdu_title: سورة المرۡسلات
+en_translation: The Emissaries
+ur_translation: بھیجی گئی ہوائیں
 ---
 
 # verse 1

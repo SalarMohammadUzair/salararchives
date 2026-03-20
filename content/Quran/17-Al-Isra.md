@@ -3,6 +3,8 @@ tags:
   - quran
 title: 17-Al-Isra
 urdu_title: سورة الإسۡراء
+en_translation: The Night Journey
+ur_translation: رات کا سفر
 ---
 
 # verse 1

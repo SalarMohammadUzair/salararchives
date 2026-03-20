@@ -3,6 +3,8 @@ tags:
   - quran
 title: 24-An-Nur
 urdu_title: سورة النور
+en_translation: The Light
+ur_translation: روشنی
 ---
 
 # verse 1

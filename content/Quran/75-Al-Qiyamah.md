@@ -3,6 +3,8 @@ tags:
   - quran
 title: 75-Al-Qiyamah
 urdu_title: سورة القيامة
+en_translation: The Resurrection
+ur_translation: قیامت
 ---
 
 # verse 1

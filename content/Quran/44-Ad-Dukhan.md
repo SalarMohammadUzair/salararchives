@@ -3,6 +3,8 @@ tags:
   - quran
 title: 44-Ad-Dukhan
 urdu_title: سورة الدخان
+en_translation: The Smoke
+ur_translation: دھواں
 ---
 
 # verse 1

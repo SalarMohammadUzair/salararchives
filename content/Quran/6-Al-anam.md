@@ -3,6 +3,8 @@ tags:
   - quran
 title: 6-Al-anam
 urdu_title: سورة الأنۡعام
+en_translation: The Cattle
+ur_translation: مویشی
 ---
 
 # verse 1

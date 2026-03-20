@@ -3,6 +3,8 @@ tags:
   - quran
 title: 42-Ash-Shura
 urdu_title: سورة الشورى
+en_translation: Consultation
+ur_translation: مشورہ
 ---
 
 # verse 1

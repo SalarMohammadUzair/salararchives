@@ -3,6 +3,8 @@ tags:
   - quran
 title: 11-Hud
 urdu_title: سورة هود
+en_translation: Hud
+ur_translation: ہود
 ---
 
 # verse 1

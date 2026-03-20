@@ -3,6 +3,8 @@ tags:
   - quran
 title: 111-Al-Masad
 urdu_title: سورة المسد
+en_translation: The Palm Fibre
+ur_translation: کھجور کی چھال
 ---
 
 # verse 1

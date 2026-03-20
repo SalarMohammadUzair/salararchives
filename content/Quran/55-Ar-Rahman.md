@@ -3,6 +3,8 @@ tags:
   - quran
 title: 55-Ar-Rahman
 urdu_title: سورة الرحۡمن
+en_translation: The Beneficent
+ur_translation: نہایت مہربان
 ---
 
 # verse 1

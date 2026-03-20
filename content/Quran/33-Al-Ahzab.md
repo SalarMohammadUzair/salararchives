@@ -3,6 +3,8 @@ tags:
   - quran
 title: 33-Al-Ahzab
 urdu_title: سورة الأحۡزاب
+en_translation: The Clans
+ur_translation: فوجیں
 ---
 
 # verse 1

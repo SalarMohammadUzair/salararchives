@@ -3,6 +3,8 @@ tags:
   - quran
 title: 112-Al-Ikhlas
 urdu_title: سورة الإخۡلاص
+en_translation: Sincerity
+ur_translation: اخلاص
 ---
 
 # verse 1

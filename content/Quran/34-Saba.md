@@ -3,6 +3,8 @@ tags:
   - quran
 title: 34-Saba
 urdu_title: سورة سبإ
+en_translation: Sheba
+ur_translation: سبا
 ---
 
 # verse 1

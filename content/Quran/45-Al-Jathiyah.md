@@ -3,6 +3,8 @@ tags:
   - quran
 title: 45-Al-Jathiyah
 urdu_title: سورة الجاثية
+en_translation: Crouching
+ur_translation: گھٹنوں کے بل گرنے والی
 ---
 
 # verse 1

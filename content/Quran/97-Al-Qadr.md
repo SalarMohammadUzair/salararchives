@@ -3,6 +3,8 @@ tags:
   - quran
 title: 97-Al-Qadr
 urdu_title: سورة القدۡر
+en_translation: The Power, Fate
+ur_translation: قدر و منزلت
 ---
 
 # verse 1

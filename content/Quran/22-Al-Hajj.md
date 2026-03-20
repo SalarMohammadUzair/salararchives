@@ -3,6 +3,8 @@ tags:
   - quran
 title: 22-Al-Hajj
 urdu_title: سورة الحج
+en_translation: The Pilgrimage
+ur_translation: حج
 ---
 
 # verse 1

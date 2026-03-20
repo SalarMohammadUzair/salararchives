@@ -3,6 +3,8 @@ tags:
   - quran
 title: 26-Ash-Shuara
 urdu_title: سورة الشعراء
+en_translation: The Poets
+ur_translation: شاعر
 ---
 
 # verse 1

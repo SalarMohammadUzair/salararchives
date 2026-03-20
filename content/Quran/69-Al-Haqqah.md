@@ -3,6 +3,8 @@ tags:
   - quran
 title: 69-Al-Haqqah
 urdu_title: سورة الحاقة
+en_translation: The Reality
+ur_translation: اٹل حقیقت
 ---
 
 # verse 1

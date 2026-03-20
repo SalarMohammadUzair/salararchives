@@ -3,6 +3,8 @@ tags:
   - quran
 title: 8-Al-anfal
 urdu_title: سورة الأنفال
+en_translation: The Spoils of War
+ur_translation: مال غنیمت
 ---
 
 # verse 1

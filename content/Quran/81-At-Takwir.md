@@ -3,6 +3,8 @@ tags:
   - quran
 title: 81-At-Takwir
 urdu_title: سورة التكۡوير
+en_translation: The Overthrowing
+ur_translation: لپیٹ دینا
 ---
 
 # verse 1

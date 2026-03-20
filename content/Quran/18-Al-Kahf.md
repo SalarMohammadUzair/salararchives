@@ -3,6 +3,8 @@ tags:
   - quran
 title: 18-Al-Kahf
 urdu_title: سورة الكهۡف
+en_translation: The Cave
+ur_translation: غار
 ---
 
 # verse 1

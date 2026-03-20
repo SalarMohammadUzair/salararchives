@@ -3,6 +3,8 @@ tags:
   - quran
 title: 102-At-Takathur
 urdu_title: سورة التكاثر
+en_translation: Competition
+ur_translation: کثرت کی ہوس
 ---
 
 # verse 1

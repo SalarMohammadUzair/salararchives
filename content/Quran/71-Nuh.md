@@ -3,6 +3,8 @@ tags:
   - quran
 title: 71-Nuh
 urdu_title: سورة نوح
+en_translation: Noah
+ur_translation: نوح
 ---
 
 # verse 1

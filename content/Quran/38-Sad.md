@@ -3,6 +3,8 @@ tags:
   - quran
 title: 38-Sad
 urdu_title: سورة ص
+en_translation: The letter Saad
+ur_translation: ص
 ---
 
 # verse 1

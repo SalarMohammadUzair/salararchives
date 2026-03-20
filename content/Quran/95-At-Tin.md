@@ -3,6 +3,8 @@ tags:
   - quran
 title: 95-At-Tin
 urdu_title: سورة التين
+en_translation: The Fig
+ur_translation: انجیر
 ---
 
 # verse 1

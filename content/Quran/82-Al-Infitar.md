@@ -3,6 +3,8 @@ tags:
   - quran
 title: 82-Al-Infitar
 urdu_title: سورة الانفطار
+en_translation: The Cleaving
+ur_translation: پھٹ جانا
 ---
 
 # verse 1

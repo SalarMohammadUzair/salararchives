@@ -3,6 +3,8 @@ tags:
   - quran
 title: 78-An-Naba
 urdu_title: سورة النبإ
+en_translation: The Announcement
+ur_translation: بڑی خبر
 ---
 
 # verse 1

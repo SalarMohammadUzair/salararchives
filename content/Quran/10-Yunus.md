@@ -3,6 +3,8 @@ tags:
   - quran
 title: 10-Yunus
 urdu_title: سورة يونس
+en_translation: Jonas
+ur_translation: یونس
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 70-Al-Maarij
 urdu_title: سورة المعارج
+en_translation: The Ascending Stairways
+ur_translation: عروج کے زینے
 ---
 
 # verse 1

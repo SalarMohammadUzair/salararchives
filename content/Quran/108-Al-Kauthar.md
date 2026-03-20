@@ -3,6 +3,8 @@ tags:
   - quran
 title: 108-Al-Kauthar
 urdu_title: سورة الكوۡثر
+en_translation: Abundance
+ur_translation: حوض کوثر
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 53-An-Najm
 urdu_title: سورة النجۡم
+en_translation: The Star
+ur_translation: ستارہ
 ---
 
 # verse 1

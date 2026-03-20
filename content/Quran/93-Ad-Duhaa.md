@@ -3,6 +3,8 @@ tags:
   - quran
 title: 93-Ad-Duhaa
 urdu_title: سورة الضحى
+en_translation: The Morning Hours
+ur_translation: چاشت کا وقت
 ---
 
 # verse 1

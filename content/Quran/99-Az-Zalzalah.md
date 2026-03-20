@@ -3,6 +3,8 @@ tags:
   - quran
 title: 99-Az-Zalzalah
 urdu_title: سورة الزلۡزلة
+en_translation: The Earthquake
+ur_translation: زلزلہ
 ---
 
 # verse 1

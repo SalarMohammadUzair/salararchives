@@ -3,6 +3,8 @@ tags:
   - quran
 title: 68-Al-Qalam
 urdu_title: سورة القلم
+en_translation: The Pen
+ur_translation: قلم
 ---
 
 # verse 1

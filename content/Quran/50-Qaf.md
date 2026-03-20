@@ -3,6 +3,8 @@ tags:
   - quran
 title: 50-Qaf
 urdu_title: سورة ق
+en_translation: The letter Qaaf
+ur_translation: ق
 ---
 
 # verse 1

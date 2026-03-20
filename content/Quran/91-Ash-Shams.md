@@ -3,6 +3,8 @@ tags:
   - quran
 title: 91-Ash-Shams
 urdu_title: سورة الشمۡس
+en_translation: The Sun
+ur_translation: سورج
 ---
 
 # verse 1

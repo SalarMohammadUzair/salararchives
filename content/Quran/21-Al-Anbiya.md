@@ -3,6 +3,8 @@ tags:
   - quran
 title: 21-Al-Anbiya
 urdu_title: سورة الأنبياء
+en_translation: The Prophets
+ur_translation: انبیاء
 ---
 
 # verse 1

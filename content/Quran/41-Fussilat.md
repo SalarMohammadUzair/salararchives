@@ -3,6 +3,8 @@ tags:
   - quran
 title: 41-Fussilat
 urdu_title: سورة فصلتۡ
+en_translation: Explained in detail
+ur_translation: تفصیل سے بیان کی گئی
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 101-Al-Qariah
 urdu_title: سورة القارعة
+en_translation: The Calamity
+ur_translation: کھڑکھڑانے والی آفت
 ---
 
 # verse 1

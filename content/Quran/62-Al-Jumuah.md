@@ -3,6 +3,8 @@ tags:
   - quran
 title: 62-Al-Jumuah
 urdu_title: سورة الجمعة
+en_translation: Friday
+ur_translation: جمعہ
 ---
 
 # verse 1

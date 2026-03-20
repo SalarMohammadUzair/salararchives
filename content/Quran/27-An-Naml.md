@@ -3,6 +3,8 @@ tags:
   - quran
 title: 27-An-Naml
 urdu_title: سورة النمۡل
+en_translation: The Ant
+ur_translation: چیونٹی
 ---
 
 # verse 1

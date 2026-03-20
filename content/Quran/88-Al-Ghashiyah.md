@@ -3,6 +3,8 @@ tags:
   - quran
 title: 88-Al-Ghashiyah
 urdu_title: سورة الغاشية
+en_translation: The Overwhelming
+ur_translation: چھا جانے والی آفت
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 13-Ar-Rad
 urdu_title: سورة الرعۡد
+en_translation: The Thunder
+ur_translation: بجلی کی کڑک
 ---
 
 # verse 1

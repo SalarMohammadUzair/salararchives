@@ -3,6 +3,8 @@ tags:
   - quran
 title: 58-Al-Mujadila
 urdu_title: سورة المجادلة
+en_translation: The Pleading Woman
+ur_translation: بحث کرنے والی
 ---
 
 # verse 1

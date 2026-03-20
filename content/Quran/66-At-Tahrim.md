@@ -3,6 +3,8 @@ tags:
   - quran
 title: 66-At-Tahrim
 urdu_title: سورة التحۡريم
+en_translation: The Prohibition
+ur_translation: حرام کرنا
 ---
 
 # verse 1

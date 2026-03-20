@@ -3,6 +3,8 @@ tags:
   - quran
 title: 54-Al-Qamar
 urdu_title: سورة القمر
+en_translation: The Moon
+ur_translation: چاند
 ---
 
 # verse 1

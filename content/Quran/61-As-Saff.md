@@ -3,6 +3,8 @@ tags:
   - quran
 title: 61-As-Saff
 urdu_title: سورة الصف
+en_translation: The Ranks
+ur_translation: صف
 ---
 
 # verse 1

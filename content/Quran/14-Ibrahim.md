@@ -3,6 +3,8 @@ tags:
   - quran
 title: 14-Ibrahim
 urdu_title: سورة إبۡراهيم
+en_translation: Abraham
+ur_translation: ابراہیم
 ---
 
 # verse 1

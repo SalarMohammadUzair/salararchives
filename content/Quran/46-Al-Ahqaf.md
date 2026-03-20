@@ -3,6 +3,8 @@ tags:
   - quran
 title: 46-Al-Ahqaf
 urdu_title: سورة الأحۡقاف
+en_translation: The Dunes
+ur_translation: ریت کے ٹیلے
 ---
 
 # verse 1

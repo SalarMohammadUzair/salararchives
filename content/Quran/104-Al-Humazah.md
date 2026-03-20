@@ -3,6 +3,8 @@ tags:
   - quran
 title: 104-Al-Humazah
 urdu_title: سورة الهمزة
+en_translation: The Traducer
+ur_translation: طعنہ دینے والا
 ---
 
 # verse 1

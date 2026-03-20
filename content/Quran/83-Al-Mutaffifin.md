@@ -3,6 +3,8 @@ tags:
   - quran
 title: 83-Al-Mutaffifin
 urdu_title: سورة المطففين
+en_translation: Defrauding
+ur_translation: ناپ تول میں کمی کرنے والے
 ---
 
 # verse 1

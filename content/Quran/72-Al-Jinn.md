@@ -3,6 +3,8 @@ tags:
   - quran
 title: 72-Al-Jinn
 urdu_title: سورة الجن
+en_translation: The Jinn
+ur_translation: جن
 ---
 
 # verse 1

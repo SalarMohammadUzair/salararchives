@@ -3,6 +3,8 @@ tags:
   - quran
 title: 32-As-Sajdah
 urdu_title: سورة السجۡدة
+en_translation: The Prostration
+ur_translation: سجدہ
 ---
 
 # verse 1

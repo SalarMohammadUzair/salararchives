@@ -4,16 +4,24 @@ import { classNames } from "../util/lang"
 const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
   const title = fileData.frontmatter?.title
   const urduTitle = fileData.frontmatter?.urdu_title
+  const enTranslation = fileData.frontmatter?.en_translation
+  const urTranslation = fileData.frontmatter?.ur_translation
+  
   if (title) {
-    if (urduTitle) {
-      return (
-        <h1 class={classNames(displayClass, "article-title")}>
-          <span class="lang-en">{title}</span>
-          <span class="lang-ur">{urduTitle as string}</span>
+    return (
+      <div class={classNames(displayClass, "article-title-container")}>
+        <h1 class="article-title">
+          <span class="lang-en">{title as string}</span>
+          {urduTitle && <span class="lang-ur">{urduTitle as string}</span>}
         </h1>
-      )
-    }
-    return <h1 class={classNames(displayClass, "article-title")}>{title}</h1>
+        {(enTranslation || urTranslation) && (
+          <div class="article-subtitle" style={{ marginTop: "0.2rem", fontSize: "1.2rem", color: "var(--gray)", fontStyle: "italic" }}>
+            {enTranslation && <span class="lang-en">{enTranslation as string}</span>}
+            {urTranslation && <span class="lang-ur">{urTranslation as string}</span>}
+          </div>
+        )}
+      </div>
+    )
   } else {
     return null
   }
@@ -22,6 +30,9 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
 ArticleTitle.css = `
 .article-title {
   margin: 2rem 0 0 0;
+}
+.article-subtitle {
+  margin: 0;
 }
 `
 

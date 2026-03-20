@@ -3,6 +3,8 @@ tags:
   - quran
 title: 103-Al-Asr
 urdu_title: سورة العصۡر
+en_translation: The Declining Day, Epoch
+ur_translation: زمانہ
 ---
 
 # verse 1

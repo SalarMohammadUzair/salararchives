@@ -3,6 +3,8 @@ tags:
   - quran
 title: 20-Taha
 urdu_title: سورة طه
+en_translation: Taa-Haa
+ur_translation: طٰہٰ
 ---
 
 # verse 1

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 87-Al-Ala
 urdu_title: سورة الأعۡلى
+en_translation: The Most High
+ur_translation: سب سے اعلیٰ
 ---
 
 # verse 1

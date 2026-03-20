@@ -3,6 +3,8 @@ tags:
   - quran
 title: 106-Quraish
 urdu_title: سورة قريۡش
+en_translation: Quraysh
+ur_translation: قریش
 ---
 
 # verse 1

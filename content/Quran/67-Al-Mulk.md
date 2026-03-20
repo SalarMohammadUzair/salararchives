@@ -3,6 +3,8 @@ tags:
   - quran
 title: 67-Al-Mulk
 urdu_title: سورة الملۡك
+en_translation: The Sovereignty
+ur_translation: بادشاہی
 ---
 
 # verse 1

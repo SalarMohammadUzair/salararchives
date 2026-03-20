@@ -3,6 +3,8 @@ tags:
   - quran
 title: 36-Ya-Sin
 urdu_title: سورة يس
+en_translation: Yaseen
+ur_translation: یٰس
 ---
 
 # verse 1

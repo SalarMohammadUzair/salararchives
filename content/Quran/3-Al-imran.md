@@ -4,6 +4,8 @@ draft: false
 tags:
   - quran
 urdu_title: سورة ال عمۡران
+en_translation: Family of Imran
+ur_translation: آل عمران
 ---
 # Main deal 
 ## verse 1

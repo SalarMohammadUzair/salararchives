@@ -3,6 +3,8 @@ tags:
   - quran
 title: 56-Al-Waqiah
 urdu_title: سورة الواقعة
+en_translation: The Inevitable
+ur_translation: واقع ہونے والی
 ---
 
 # verse 1

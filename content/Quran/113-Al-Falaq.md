@@ -3,6 +3,8 @@ tags:
   - quran
 title: 113-Al-Falaq
 urdu_title: سورة الفلق
+en_translation: The Dawn
+ur_translation: صبح
 ---
 
 # verse 1

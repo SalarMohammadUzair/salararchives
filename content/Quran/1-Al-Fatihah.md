@@ -3,6 +3,8 @@ tags:
   - quran
 title: 1-Al-Fatihah
 urdu_title: سورة الفاتحة
+en_translation: The Opening
+ur_translation: آغاز
 ---
 
 The ultimate prayer. 

@@ -3,6 +3,8 @@ tags:
   - quran
 title: 39-Az-Zumar
 urdu_title: سورة الزمر
+en_translation: The Groups
+ur_translation: گروہ
 ---
 
 # verse 1

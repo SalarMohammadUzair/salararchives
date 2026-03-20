@@ -3,6 +3,8 @@ tags:
   - quran
 title: 9-At-tawbah
 urdu_title: سورة التوۡبة
+en_translation: The Repentance
+ur_translation: توبہ
 ---
 
 # verse 1

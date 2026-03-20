@@ -3,6 +3,8 @@ tags:
   - quran
 title: 60-Al-Mumtahanah
 urdu_title: سورة الممۡتحنة
+en_translation: She that is to be examined
+ur_translation: امتحان لی گئی عورت
 ---
 
 # verse 1

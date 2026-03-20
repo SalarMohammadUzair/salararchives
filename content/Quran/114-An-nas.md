@@ -3,6 +3,8 @@ tags:
   - quran
 title: 114-An-nas
 urdu_title: سورة الناس
+en_translation: Mankind
+ur_translation: لوگ
 ---
 
 # verse 1

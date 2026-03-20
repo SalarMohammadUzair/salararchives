@@ -3,6 +3,8 @@ tags:
   - quran
 title: 35-Fatir
 urdu_title: سورة فاطر
+en_translation: The Originator
+ur_translation: پیدا کرنے والا
 ---
 
 # verse 1
