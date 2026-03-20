@@ -28,3 +28,10 @@
 
 :root[saved-lang="ur"] .langtoggle .lang-en { display: none; }
 :root[saved-lang="ur"] .langtoggle .lang-ur { display: inline; }
+
+/* Global visibility rules for in-note language translations */
+:root .lang-ur { display: none; }
+:root .lang-en { display: inline; }
+
+:root[saved-lang="ur"] .lang-en { display: none; }
+:root[saved-lang="ur"] .lang-ur { display: inline; }

@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 2-Al-baqarah
+urdu_title: سورة البقرة
 ---
 
 Allah opens his light to the self aware
