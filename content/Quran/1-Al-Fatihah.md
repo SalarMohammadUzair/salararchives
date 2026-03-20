@@ -24,35 +24,65 @@ Oh Allah,  please bestow upon me the khilafat,  entrust it to me and please allo
 ## Verse 2
 > Praise be to Allah, the Cherisher and Sustainer of the worlds;
 ^verse-2
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/dpdXRysJpkQ?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
+  <img src="https://img.youtube.com/vi/dpdXRysJpkQ/maxresdefault.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover">
+  <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:3.5rem;color:#fff;text-shadow:0 0 20px rgba(0,0,0,0.8);pointer-events:none">▶</span>
+</div>
 
 ### thoughts
 
 ## Verse 3
 > Most Gracious, Most Merciful;
 ^verse-3
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/PuKjq4Ag0Uk?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
+  <img src="https://img.youtube.com/vi/PuKjq4Ag0Uk/maxresdefault.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover">
+  <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:3.5rem;color:#fff;text-shadow:0 0 20px rgba(0,0,0,0.8);pointer-events:none">▶</span>
+</div>
 
 ### thoughts
 
 ## Verse 4
 > Master of the Day of Judgment.
 ^verse-4
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/Ibbv1FwFx7Q?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
+  <img src="https://img.youtube.com/vi/Ibbv1FwFx7Q/maxresdefault.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover">
+  <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:3.5rem;color:#fff;text-shadow:0 0 20px rgba(0,0,0,0.8);pointer-events:none">▶</span>
+</div>
 
 ### thoughts
 
 ## Verse 5
 > Thee do we worship, and Thine aid we seek.
 ^verse-5
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/_-d0RsdG9Cs?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
+  <img src="https://img.youtube.com/vi/_-d0RsdG9Cs/maxresdefault.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover">
+  <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:3.5rem;color:#fff;text-shadow:0 0 20px rgba(0,0,0,0.8);pointer-events:none">▶</span>
+</div>
 
 ### thoughts
 
 ## Verse 6
 > Show us the straight way,
 ^verse-6
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/xT35rAmjpyo?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
+  <img src="https://img.youtube.com/vi/xT35rAmjpyo/maxresdefault.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover">
+  <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:3.5rem;color:#fff;text-shadow:0 0 20px rgba(0,0,0,0.8);pointer-events:none">▶</span>
+</div>
 
 ### thoughts
 
 ## Verse 7
 > The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.
 ^verse-7
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/XyOIr6uhicY?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
+  <img src="https://img.youtube.com/vi/XyOIr6uhicY/maxresdefault.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover">
+  <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:3.5rem;color:#fff;text-shadow:0 0 20px rgba(0,0,0,0.8);pointer-events:none">▶</span>
+</div>
 
 ### thoughts
+
+## Conclusion
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/ZYqj-TxnpKs?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
+  <img src="https://img.youtube.com/vi/ZYqj-TxnpKs/maxresdefault.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover">
+  <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:3.5rem;color:#fff;text-shadow:0 0 20px rgba(0,0,0,0.8);pointer-events:none">▶</span>
+</div>
