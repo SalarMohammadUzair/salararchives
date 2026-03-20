@@ -29,12 +29,20 @@
 :root[saved-lang="ur"] .langtoggle .lang-en { display: none; }
 :root[saved-lang="ur"] .langtoggle .lang-ur { display: inline; }
 
-/* Global visibility rules for in-note language translations */
-:root .lang-ur { display: none; }
-:root .lang-en { display: inline; }
+/* Global visibility rules for in-note language transla */
+html[saved-lang="en"] .lang-ur { display: none !important; }
+html[saved-lang="ur"] .lang-en { display: none !important; }
+html[saved-lang="ur"] .lang-ur { display: inline !important; }
+html[saved-lang="en"] .lang-en { display: inline !important; }
 
-:root[saved-lang="ur"] .lang-en { display: none; }
-:root[saved-lang="ur"] .lang-ur { display: inline; }
+/* Arabic Text Styling */
+.quran-arabic {
+  font-family: 'Amiri', 'Scheherazade New', 'Lateef', serif;
+  text-align: right;
+  margin-bottom: 0.5rem;
+  color: var(--darkgray);
+}
+
 
 /* Right align the article title and set RTL direction when in Urdu mode ONLY for notes with actual Urdu translations */
 :root[saved-lang="ur"] .has-urdu .article-title,

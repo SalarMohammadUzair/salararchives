@@ -8,6 +8,8 @@ ur_translation: پھٹ جانا
 ---
 
 # verse 1
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ إِذَا السَّمَاءُ انْفَطَرَتْ</span>
+
 > When the heaven is cleft asunder,
 ^verse-1
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -18,6 +20,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 2
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ</span>
+
 > When the planets are dispersed,
 ^verse-2
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -28,6 +32,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 3
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْبِحَارُ فُجِّرَتْ</span>
+
 > When the seas are poured forth,
 ^verse-3
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -38,6 +44,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 4
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْقُبُورُ بُعْثِرَتْ</span>
+
 > And the sepulchres are overturned,
 ^verse-4
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -48,6 +56,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 5
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ</span>
+
 > A soul will know what it hath sent before (it) and what left behind.
 ^verse-5
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -58,6 +68,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 6
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ</span>
+
 > O man! What hath made thee careless concerning thy Lord, the Bountiful,
 ^verse-6
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -68,6 +80,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 7
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ</span>
+
 > Who created thee, then fashioned, then proportioned thee?
 ^verse-7
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -78,6 +92,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 8
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ</span>
+
 > Into whatsoever form He will, He casteth thee.
 ^verse-8
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -88,6 +104,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 9
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ</span>
+
 > Nay, but ye deny the Judgment.
 ^verse-9
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -98,6 +116,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 10
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ</span>
+
 > Lo! there are above you guardians,
 ^verse-10
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -108,6 +128,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 11
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كِرَامًا كَاتِبِينَ</span>
+
 > Generous and recording,
 ^verse-11
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -118,6 +140,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 12
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">يَعْلَمُونَ مَا تَفْعَلُونَ</span>
+
 > Who know (all) that ye do.
 ^verse-12
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -128,6 +152,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 13
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ</span>
+
 > Lo! the righteous verily will be in delight.
 ^verse-13
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -138,6 +164,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 14
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ</span>
+
 > And lo! the wicked verily will be in hell;
 ^verse-14
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -148,6 +176,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 15
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">يَصْلَوْنَهَا يَوْمَ الدِّينِ</span>
+
 > They will burn therein on the Day of Judgment,
 ^verse-15
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -158,6 +188,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 16
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَا هُمْ عَنْهَا بِغَائِبِينَ</span>
+
 > And will not be absent thence.
 ^verse-16
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -168,6 +200,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 17
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ</span>
+
 > Ah, what will convey unto thee what the Day of Judgment is!
 ^verse-17
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -178,6 +212,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 18
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ</span>
+
 > Again, what will convey unto thee what the Day of Judgment is!
 ^verse-18
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -188,6 +224,8 @@ ur_translation: پھٹ جانا
 ### thoughts
 
 # verse 19
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ</span>
+
 > A day on which no soul hath power at all for any (other) soul. The (absolute) command on that day is Allah's.
 ^verse-19
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">

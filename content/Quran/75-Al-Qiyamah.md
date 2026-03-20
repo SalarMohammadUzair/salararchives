@@ -8,6 +8,8 @@ ur_translation: قیامت
 ---
 
 # verse 1
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ</span>
+
 > Nay, I swear by the Day of Resurrection;
 ^verse-1
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -18,6 +20,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 2
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ</span>
+
 > Nay, I swear by the accusing soul (that this Scripture is true).
 ^verse-2
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -28,6 +32,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 3
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ</span>
+
 > Thinketh man that We shall not assemble his bones?
 ^verse-3
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -38,6 +44,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 4
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بَلَىٰ قَادِرِينَ عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ</span>
+
 > Yea, verily. We are Able to restore his very fingers!
 ^verse-4
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -48,6 +56,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 5
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ</span>
+
 > But man would fain deny what is before him.
 ^verse-5
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -58,6 +68,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 6
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ</span>
+
 > He asketh: When will be this Day of Resurrection?
 ^verse-6
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -68,6 +80,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 7
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَإِذَا بَرِقَ الْبَصَرُ</span>
+
 > But when sight is confounded
 ^verse-7
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -78,6 +92,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 8
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَخَسَفَ الْقَمَرُ</span>
+
 > And the moon is eclipsed
 ^verse-8
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -88,6 +104,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 9
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَجُمِعَ الشَّمْسُ وَالْقَمَرُ</span>
+
 > And sun and moon are united,
 ^verse-9
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -98,6 +116,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 10
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ</span>
+
 > On that day man will cry: Whither to flee!
 ^verse-10
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -108,6 +128,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 11
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَلَّا لَا وَزَرَ</span>
+
 > Alas! No refuge!
 ^verse-11
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -118,6 +140,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 12
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ</span>
+
 > Unto thy Lord is the recourse that day.
 ^verse-12
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -128,6 +152,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 13
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ</span>
+
 > On that day man is told the tale of that which he hath sent before and left behind.
 ^verse-13
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -138,6 +164,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 14
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ</span>
+
 > Oh, but man is a telling witness against himself,
 ^verse-14
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -148,6 +176,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 15
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ</span>
+
 > Although he tender his excuses.
 ^verse-15
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -158,6 +188,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 16
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ</span>
+
 > Stir not thy tongue herewith to hasten it.
 ^verse-16
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -168,6 +200,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 17
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ</span>
+
 > Lo! upon Us (resteth) the putting together thereof and the reading thereof.
 ^verse-17
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -178,6 +212,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 18
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ</span>
+
 > And when We read it, follow thou the reading;
 ^verse-18
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -188,6 +224,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 19
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ</span>
+
 > Then lo! upon Us (resteth) the explanation thereof.
 ^verse-19
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -198,6 +236,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 20
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ</span>
+
 > Nay, but ye do love the fleeting Now
 ^verse-20
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -208,6 +248,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 21
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَتَذَرُونَ الْآخِرَةَ</span>
+
 > And neglect the Hereafter.
 ^verse-21
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -218,6 +260,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 22
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ</span>
+
 > That day will faces be resplendent,
 ^verse-22
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -228,6 +272,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 23
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِلَىٰ رَبِّهَا نَاظِرَةٌ</span>
+
 > Looking toward their Lord;
 ^verse-23
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -238,6 +284,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 24
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ</span>
+
 > And that day will other faces be despondent,
 ^verse-24
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -248,6 +296,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 25
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ</span>
+
 > Thou wilt know that some great disaster is about to fall on them.
 ^verse-25
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -258,6 +308,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 26
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ</span>
+
 > Nay, but when the life cometh up to the throat
 ^verse-26
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -268,6 +320,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 27
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَقِيلَ مَنْ ۜ رَاقٍ</span>
+
 > And men say: Where is the wizard (who can save him now)?
 ^verse-27
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -278,6 +332,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 28
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَظَنَّ أَنَّهُ الْفِرَاقُ</span>
+
 > And he knoweth that it is the parting;
 ^verse-28
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -288,6 +344,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 29
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَالْتَفَّتِ السَّاقُ بِالسَّاقِ</span>
+
 > And agony is heaped on agony;
 ^verse-29
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -298,6 +356,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 30
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ</span>
+
 > Unto thy Lord that day will be the driving.
 ^verse-30
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -308,6 +368,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 31
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَلَا صَدَّقَ وَلَا صَلَّىٰ</span>
+
 > For he neither trusted, nor prayed.
 ^verse-31
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -318,6 +380,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 32
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَلَـٰكِنْ كَذَّبَ وَتَوَلَّىٰ</span>
+
 > But he denied and flouted.
 ^verse-32
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -328,6 +392,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 33
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ</span>
+
 > Then went he to his folk with glee.
 ^verse-33
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -338,6 +404,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 34
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">أَوْلَىٰ لَكَ فَأَوْلَىٰ</span>
+
 > Nearer unto thee and nearer,
 ^verse-34
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -348,6 +416,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 35
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ</span>
+
 > Again nearer unto thee and nearer (is the doom).
 ^verse-35
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -358,6 +428,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 36
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى</span>
+
 > Thinketh man that he is to be left aimless?
 ^verse-36
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -368,6 +440,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 37
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَىٰ</span>
+
 > Was he not a drop of fluid which gushed forth?
 ^verse-37
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -378,6 +452,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 38
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ</span>
+
 > Then he became a clot; then (Allah) shaped and fashioned
 ^verse-38
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -388,6 +464,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 39
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ</span>
+
 > And made of him a pair, the male and female.
 ^verse-39
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -398,6 +476,8 @@ ur_translation: قیامت
 ### thoughts
 
 # verse 40
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَنْ يُحْيِيَ الْمَوْتَىٰ</span>
+
 > Is not He (Who doeth so) Able to bring the dead to life?
 ^verse-40
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">

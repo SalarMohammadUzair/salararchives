@@ -8,6 +8,8 @@ ur_translation: لپیٹ دینا
 ---
 
 # verse 1
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ إِذَا الشَّمْسُ كُوِّرَتْ</span>
+
 > When the sun is overthrown,
 ^verse-1
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -18,6 +20,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 2
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا النُّجُومُ انْكَدَرَتْ</span>
+
 > And when the stars fall,
 ^verse-2
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -28,6 +32,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 3
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْجِبَالُ سُيِّرَتْ</span>
+
 > And when the hills are moved,
 ^verse-3
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -38,6 +44,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 4
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْعِشَارُ عُطِّلَتْ</span>
+
 > And when the camels big with young are abandoned,
 ^verse-4
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -48,6 +56,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 5
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْوُحُوشُ حُشِرَتْ</span>
+
 > And when the wild beasts are herded together,
 ^verse-5
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -58,6 +68,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 6
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْبِحَارُ سُجِّرَتْ</span>
+
 > And when the seas rise,
 ^verse-6
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -68,6 +80,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 7
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا النُّفُوسُ زُوِّجَتْ</span>
+
 > And when souls are reunited,
 ^verse-7
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -78,6 +92,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 8
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْمَوْءُودَةُ سُئِلَتْ</span>
+
 > And when the girl-child that was buried alive is asked
 ^verse-8
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -88,6 +104,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 9
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بِأَيِّ ذَنْبٍ قُتِلَتْ</span>
+
 > For what sin she was slain,
 ^verse-9
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -98,6 +116,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 10
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الصُّحُفُ نُشِرَتْ</span>
+
 > And when the pages are laid open,
 ^verse-10
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -108,6 +128,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 11
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا السَّمَاءُ كُشِطَتْ</span>
+
 > And when the sky is torn away,
 ^verse-11
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -118,6 +140,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 12
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْجَحِيمُ سُعِّرَتْ</span>
+
 > And when hell is lighted,
 ^verse-12
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -128,6 +152,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 13
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْجَنَّةُ أُزْلِفَتْ</span>
+
 > And when the Garden is brought nigh,
 ^verse-13
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -138,6 +164,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 14
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ</span>
+
 > (Then) every soul will know what it hath made ready.
 ^verse-14
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -148,6 +176,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 15
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَلَا أُقْسِمُ بِالْخُنَّسِ</span>
+
 > Oh, but I call to witness the planets,
 ^verse-15
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -158,6 +188,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 16
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">الْجَوَارِ الْكُنَّسِ</span>
+
 > The stars which rise and set,
 ^verse-16
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -168,6 +200,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 17
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَاللَّيْلِ إِذَا عَسْعَسَ</span>
+
 > And the close of night,
 ^verse-17
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -178,6 +212,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 18
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَالصُّبْحِ إِذَا تَنَفَّسَ</span>
+
 > And the breath of morning
 ^verse-18
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -188,6 +224,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 19
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ</span>
+
 > That this is in truth the word of an honoured messenger,
 ^verse-19
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -198,6 +236,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 20
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ</span>
+
 > Mighty, established in the presence of the Lord of the Throne,
 ^verse-20
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -208,6 +248,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 21
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">مُطَاعٍ ثَمَّ أَمِينٍ</span>
+
 > (One) to be obeyed, and trustworthy;
 ^verse-21
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -218,6 +260,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 22
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَا صَاحِبُكُمْ بِمَجْنُونٍ</span>
+
 > And your comrade is not mad.
 ^verse-22
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -228,6 +272,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 23
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ</span>
+
 > Surely he beheld Him on the clear horizon.
 ^verse-23
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -238,6 +284,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 24
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ</span>
+
 > And he is not avid of the Unseen.
 ^verse-24
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -248,6 +296,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 25
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ</span>
+
 > Nor is this the utterance of a devil worthy to be stoned.
 ^verse-25
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -258,6 +308,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 26
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَأَيْنَ تَذْهَبُونَ</span>
+
 > Whither then go ye?
 ^verse-26
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -268,6 +320,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 27
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ</span>
+
 > This is naught else than a reminder unto creation,
 ^verse-27
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -278,6 +332,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 28
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ</span>
+
 > Unto whomsoever of you willeth to walk straight.
 ^verse-28
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -288,6 +344,8 @@ ur_translation: لپیٹ دینا
 ### thoughts
 
 # verse 29
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ</span>
+
 > And ye will not, unless (it be) that Allah willeth, the Lord of Creation.
 ^verse-29
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">

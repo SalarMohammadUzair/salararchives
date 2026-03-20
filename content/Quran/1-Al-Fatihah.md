@@ -39,6 +39,8 @@ Oh Allah,  please bestow upon me the khilafat,  entrust it to me and please allo
 ### thoughts
 
 ## Verse 3
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">الرَّحْمَـٰنِ الرَّحِيمِ</span>
+
 > Most Gracious, Most Merciful;
 ^verse-3
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/PuKjq4Ag0Uk?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
@@ -49,6 +51,8 @@ Oh Allah,  please bestow upon me the khilafat,  entrust it to me and please allo
 ### thoughts
 
 ## Verse 4
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">مَالِكِ يَوْمِ الدِّينِ</span>
+
 > Master of the Day of Judgment.
 ^verse-4
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/Ibbv1FwFx7Q?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
@@ -59,6 +63,8 @@ Oh Allah,  please bestow upon me the khilafat,  entrust it to me and please allo
 ### thoughts
 
 ## Verse 5
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ</span>
+
 > Thee do we worship, and Thine aid we seek.
 ^verse-5
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/_-d0RsdG9Cs?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
@@ -69,6 +75,8 @@ Oh Allah,  please bestow upon me the khilafat,  entrust it to me and please allo
 ### thoughts
 
 ## Verse 6
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ</span>
+
 > Show us the straight way,
 ^verse-6
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/xT35rAmjpyo?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
@@ -79,6 +87,8 @@ Oh Allah,  please bestow upon me the khilafat,  entrust it to me and please allo
 ### thoughts
 
 ## Verse 7
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ</span>
+
 > The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.
 ^verse-7
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/XyOIr6uhicY?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">

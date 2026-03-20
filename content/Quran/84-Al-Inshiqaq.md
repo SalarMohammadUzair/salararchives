@@ -8,6 +8,8 @@ ur_translation: شق ہو جانا
 ---
 
 # verse 1
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ إِذَا السَّمَاءُ انْشَقَّتْ</span>
+
 > When the heaven is split asunder
 ^verse-1
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -18,6 +20,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 2
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ</span>
+
 > And attentive to her Lord in fear,
 ^verse-2
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -28,6 +32,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 3
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا الْأَرْضُ مُدَّتْ</span>
+
 > And when the earth is spread out
 ^verse-3
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -38,6 +44,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 4
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ</span>
+
 > And hath cast out all that was in her, and is empty
 ^verse-4
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -48,6 +56,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 5
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ</span>
+
 > And attentive to her Lord in fear!
 ^verse-5
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -58,6 +68,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 6
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ</span>
+
 > Thou, verily, O man, art working toward thy Lord a work which thou wilt meet (in His presence).
 ^verse-6
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -68,6 +80,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 7
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ</span>
+
 > Then whoso is given his account in his right hand
 ^verse-7
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -78,6 +92,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 8
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا</span>
+
 > He truly will receive an easy reckoning
 ^verse-8
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -88,6 +104,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 9
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا</span>
+
 > And will return unto his folk in joy.
 ^verse-9
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -98,6 +116,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 10
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ</span>
+
 > But whoso is given his account behind his back,
 ^verse-10
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -108,6 +128,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 11
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَسَوْفَ يَدْعُو ثُبُورًا</span>
+
 > He surely will invoke destruction
 ^verse-11
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -118,6 +140,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 12
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَيَصْلَىٰ سَعِيرًا</span>
+
 > And be thrown to scorching fire.
 ^verse-12
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -128,6 +152,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 13
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا</span>
+
 > He verily lived joyous with his folk,
 ^verse-13
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -138,6 +164,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 14
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ</span>
+
 > He verily deemed that he would never return (unto Allah).
 ^verse-14
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -148,6 +176,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 15
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا</span>
+
 > Nay, but lo! his Lord is ever looking on him!
 ^verse-15
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -158,6 +188,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 16
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَلَا أُقْسِمُ بِالشَّفَقِ</span>
+
 > Oh, I swear by the afterglow of sunset,
 ^verse-16
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -168,6 +200,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 17
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَاللَّيْلِ وَمَا وَسَقَ</span>
+
 > And by the night and all that it enshroudeth,
 ^verse-17
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -178,6 +212,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 18
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَالْقَمَرِ إِذَا اتَّسَقَ</span>
+
 > And by the moon when she is at the full,
 ^verse-18
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -188,6 +224,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 19
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ</span>
+
 > That ye shall journey on from plane to plane.
 ^verse-19
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -198,6 +236,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 20
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَمَا لَهُمْ لَا يُؤْمِنُونَ</span>
+
 > What aileth them, then, that they believe not
 ^verse-20
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -208,6 +248,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 21
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ۩</span>
+
 > And, when the Qur'an is recited unto them, worship not (Allah)?
 ^verse-21
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -218,6 +260,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 22
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ</span>
+
 > Nay, but those who disbelieve will deny;
 ^verse-22
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -228,6 +272,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 23
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ</span>
+
 > And Allah knoweth best what they are hiding.
 ^verse-23
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -238,6 +284,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 24
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ</span>
+
 > So give them tidings of a painful doom,
 ^verse-24
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -248,6 +296,8 @@ ur_translation: شق ہو جانا
 ### thoughts
 
 # verse 25
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ</span>
+
 > Save those who believe and do good works, for theirs is a reward unfailing.
 ^verse-25
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">

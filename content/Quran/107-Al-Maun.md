@@ -8,6 +8,8 @@ ur_translation: عام استعمال کی چیزیں
 ---
 
 # verse 1
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ</span>
+
 > Hast thou observed him who belieth religion?
 ^verse-1
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -18,6 +20,8 @@ ur_translation: عام استعمال کی چیزیں
 ### thoughts
 
 # verse 2
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ</span>
+
 > That is he who repelleth the orphan,
 ^verse-2
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -28,6 +32,8 @@ ur_translation: عام استعمال کی چیزیں
 ### thoughts
 
 # verse 3
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ</span>
+
 > And urgeth not the feeding of the needy.
 ^verse-3
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -38,6 +44,8 @@ ur_translation: عام استعمال کی چیزیں
 ### thoughts
 
 # verse 4
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَوَيْلٌ لِلْمُصَلِّينَ</span>
+
 > Ah, woe unto worshippers
 ^verse-4
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -48,6 +56,8 @@ ur_translation: عام استعمال کی چیزیں
 ### thoughts
 
 # verse 5
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ</span>
+
 > Who are heedless of their prayer;
 ^verse-5
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -58,6 +68,8 @@ ur_translation: عام استعمال کی چیزیں
 ### thoughts
 
 # verse 6
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">الَّذِينَ هُمْ يُرَاءُونَ</span>
+
 > Who would be seen (at worship)
 ^verse-6
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -68,6 +80,8 @@ ur_translation: عام استعمال کی چیزیں
 ### thoughts
 
 # verse 7
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَيَمْنَعُونَ الْمَاعُونَ</span>
+
 > Yet refuse small kindnesses!
 ^verse-7
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">

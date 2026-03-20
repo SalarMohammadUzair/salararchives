@@ -8,6 +8,8 @@ ur_translation: سورج
 ---
 
 # verse 1
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ وَالشَّمْسِ وَضُحَاهَا</span>
+
 > By the sun and his brightness,
 ^verse-1
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -18,6 +20,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 2
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَالْقَمَرِ إِذَا تَلَاهَا</span>
+
 > And the moon when she followeth him,
 ^verse-2
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -28,6 +32,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 3
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَالنَّهَارِ إِذَا جَلَّاهَا</span>
+
 > And the day when it revealeth him,
 ^verse-3
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -38,6 +44,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 4
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَاللَّيْلِ إِذَا يَغْشَاهَا</span>
+
 > And the night when it enshroudeth him,
 ^verse-4
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -48,6 +56,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 5
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَالسَّمَاءِ وَمَا بَنَاهَا</span>
+
 > And the heaven and Him Who built it,
 ^verse-5
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -58,6 +68,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 6
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَالْأَرْضِ وَمَا طَحَاهَا</span>
+
 > And the earth and Him Who spread it,
 ^verse-6
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -68,6 +80,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 7
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَنَفْسٍ وَمَا سَوَّاهَا</span>
+
 > And a soul and Him Who perfected it
 ^verse-7
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -78,6 +92,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 8
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا</span>
+
 > And inspired it (with conscience of) what is wrong for it and (what is) right for it.
 ^verse-8
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -88,6 +104,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 9
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">قَدْ أَفْلَحَ مَنْ زَكَّاهَا</span>
+
 > He is indeed successful who causeth it to grow,
 ^verse-9
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -98,6 +116,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 10
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَقَدْ خَابَ مَنْ دَسَّاهَا</span>
+
 > And he is indeed a failure who stunteth it.
 ^verse-10
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -108,6 +128,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 11
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا</span>
+
 > (The tribe of) Thamud denied (the truth) in their rebellious pride,
 ^verse-11
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -118,6 +140,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 12
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِذِ انْبَعَثَ أَشْقَاهَا</span>
+
 > When the basest of them broke forth
 ^verse-12
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -128,6 +152,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 13
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا</span>
+
 > And the messenger of Allah said: It is the she-camel of Allah, so let her drink!
 ^verse-13
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -138,6 +164,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 14
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا</span>
+
 > But they denied him, and they hamstrung her, so Allah doomed them for their sin and rased (their dwellings).
 ^verse-14
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -148,6 +176,8 @@ ur_translation: سورج
 ### thoughts
 
 # verse 15
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَلَا يَخَافُ عُقْبَاهَا</span>
+
 > He dreadeth not the sequel (of events).
 ^verse-15
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">

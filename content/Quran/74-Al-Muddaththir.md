@@ -8,6 +8,8 @@ ur_translation: لبادہ اوڑھنے والا
 ---
 
 # verse 1
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ يَا أَيُّهَا الْمُدَّثِّرُ</span>
+
 > O thou enveloped in thy cloak,
 ^verse-1
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -18,6 +20,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 2
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">قُمْ فَأَنْذِرْ</span>
+
 > Arise and warn!
 ^verse-2
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -28,6 +32,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 3
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَرَبَّكَ فَكَبِّرْ</span>
+
 > Thy Lord magnify,
 ^verse-3
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -38,6 +44,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 4
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَثِيَابَكَ فَطَهِّرْ</span>
+
 > Thy raiment purify,
 ^verse-4
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -48,6 +56,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 5
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَالرُّجْزَ فَاهْجُرْ</span>
+
 > Pollution shun!
 ^verse-5
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -58,6 +68,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 6
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَلَا تَمْنُنْ تَسْتَكْثِرُ</span>
+
 > And show not favour, seeking wordly gain!
 ^verse-6
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -68,6 +80,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 7
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَلِرَبِّكَ فَاصْبِرْ</span>
+
 > For the sake of thy Lord, be patient!
 ^verse-7
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -78,6 +92,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 8
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَإِذَا نُقِرَ فِي النَّاقُورِ</span>
+
 > For when the trumpet shall sound,
 ^verse-8
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -88,6 +104,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 9
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ</span>
+
 > Surely that day will be a day of anguish,
 ^verse-9
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -98,6 +116,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 10
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ</span>
+
 > Not of ease, for disbelievers.
 ^verse-10
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -108,6 +128,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 11
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا</span>
+
 > Leave Me (to deal) with him whom I created lonely,
 ^verse-11
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -118,6 +140,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 12
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَجَعَلْتُ لَهُ مَالًا مَمْدُودًا</span>
+
 > And then bestowed upon him ample means,
 ^verse-12
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -128,6 +152,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 13
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَبَنِينَ شُهُودًا</span>
+
 > And sons abiding in his presence
 ^verse-13
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -138,6 +164,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 14
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَهَّدْتُ لَهُ تَمْهِيدًا</span>
+
 > And made (life) smooth for him.
 ^verse-14
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -148,6 +176,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 15
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ يَطْمَعُ أَنْ أَزِيدَ</span>
+
 > Yet he desireth that I should give more.
 ^verse-15
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -158,6 +188,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 16
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا</span>
+
 > Nay! For lo! he hath been stubborn to Our revelations.
 ^verse-16
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -168,6 +200,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 17
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">سَأُرْهِقُهُ صَعُودًا</span>
+
 > On him I shall impose a fearful doom.
 ^verse-17
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -178,6 +212,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 18
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِنَّهُ فَكَّرَ وَقَدَّرَ</span>
+
 > For lo! he did consider; then he planned -
 ^verse-18
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -188,6 +224,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 19
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَقُتِلَ كَيْفَ قَدَّرَ</span>
+
 > (Self-)destroyed is he, how he planned!
 ^verse-19
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -198,6 +236,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 20
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ قُتِلَ كَيْفَ قَدَّرَ</span>
+
 > Again (self-)destroyed is he, how he planned! -
 ^verse-20
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -208,6 +248,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 21
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ نَظَرَ</span>
+
 > Then looked he,
 ^verse-21
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -218,6 +260,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 22
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ عَبَسَ وَبَسَرَ</span>
+
 > Then frowned he and showed displeasure.
 ^verse-22
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -228,6 +272,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 23
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ</span>
+
 > Then turned he away in pride
 ^verse-23
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -238,6 +284,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 24
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَقَالَ إِنْ هَـٰذَا إِلَّا سِحْرٌ يُؤْثَرُ</span>
+
 > And said: This is naught else than magic from of old;
 ^verse-24
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -248,6 +296,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 25
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِنْ هَـٰذَا إِلَّا قَوْلُ الْبَشَرِ</span>
+
 > This is naught else than speech of mortal man.
 ^verse-25
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -258,6 +308,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 26
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">سَأُصْلِيهِ سَقَرَ</span>
+
 > Him shall I fling unto the burning.
 ^verse-26
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -268,6 +320,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 27
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَا أَدْرَاكَ مَا سَقَرُ</span>
+
 > - Ah, what will convey unto thee what that burning is! -
 ^verse-27
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -278,6 +332,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 28
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">لَا تُبْقِي وَلَا تَذَرُ</span>
+
 > It leaveth naught; it spareth naught
 ^verse-28
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -288,6 +344,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 29
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">لَوَّاحَةٌ لِلْبَشَرِ</span>
+
 > It shrivelleth the man.
 ^verse-29
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -298,6 +356,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 30
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">عَلَيْهَا تِسْعَةَ عَشَرَ</span>
+
 > Above it are nineteen.
 ^verse-30
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -308,6 +368,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 31
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ</span>
+
 > We have appointed only angels to be wardens of the Fire, and their number have We made to be a stumbling-block for those who disbelieve; that those to whom the Scripture hath been given may have certainty, and that believers may increase in faith; and that those to whom the Scripture hath been given and believers may not doubt; and that those in whose hearts there is disease, and disbelievers, may say: What meaneth Allah by this similitude? Thus Allah sendeth astray whom He will, and whom He will He guideth. None knoweth the hosts of thy Lord save Him. This is naught else than a Reminder unto mortals.
 ^verse-31
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -318,6 +380,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 32
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَلَّا وَالْقَمَرِ</span>
+
 > Nay, by the Moon
 ^verse-32
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -328,6 +392,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 33
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَاللَّيْلِ إِذْ أَدْبَرَ</span>
+
 > And the night when it withdraweth
 ^verse-33
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -338,6 +404,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 34
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَالصُّبْحِ إِذَا أَسْفَرَ</span>
+
 > And the dawn when it shineth forth,
 ^verse-34
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -348,6 +416,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 35
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِنَّهَا لَإِحْدَى الْكُبَرِ</span>
+
 > Lo! this is one of the greatest (portents)
 ^verse-35
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -358,6 +428,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 36
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">نَذِيرًا لِلْبَشَرِ</span>
+
 > As a warning unto men,
 ^verse-36
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -368,6 +440,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 37
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">لِمَنْ شَاءَ مِنْكُمْ أَنْ يَتَقَدَّمَ أَوْ يَتَأَخَّرَ</span>
+
 > Unto him of you who will advance or hang back.
 ^verse-37
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -378,6 +452,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 38
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ</span>
+
 > Every soul is a pledge for its own deeds;
 ^verse-38
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -388,6 +464,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 39
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">إِلَّا أَصْحَابَ الْيَمِينِ</span>
+
 > Save those who will stand on the right hand.
 ^verse-39
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -398,6 +476,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 40
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فِي جَنَّاتٍ يَتَسَاءَلُونَ</span>
+
 > In gardens they will ask one another
 ^verse-40
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -408,6 +488,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 41
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">عَنِ الْمُجْرِمِينَ</span>
+
 > Concerning the guilty:
 ^verse-41
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -418,6 +500,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 42
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">مَا سَلَكَكُمْ فِي سَقَرَ</span>
+
 > What hath brought you to this burning?
 ^verse-42
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -428,6 +512,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 43
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ</span>
+
 > They will answer: We were not of those who prayed
 ^verse-43
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -438,6 +524,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 44
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ</span>
+
 > Nor did we feed the wretched.
 ^verse-44
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -448,6 +536,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 45
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ</span>
+
 > We used to wade (in vain dispute) with (all) waders,
 ^verse-45
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -458,6 +548,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 46
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ</span>
+
 > And we used to deny the Day of Judgment,
 ^verse-46
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -468,6 +560,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 47
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">حَتَّىٰ أَتَانَا الْيَقِينُ</span>
+
 > Till the Inevitable came unto us.
 ^verse-47
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -478,6 +572,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 48
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ</span>
+
 > The mediation of no mediators will avail them then.
 ^verse-48
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -488,6 +584,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 49
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ</span>
+
 > Why now turn they away from the Admonishment,
 ^verse-49
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -498,6 +596,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 50
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَأَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ</span>
+
 > As they were frightened asses
 ^verse-50
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -508,6 +608,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 51
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَرَّتْ مِنْ قَسْوَرَةٍ</span>
+
 > Fleeing from a lion?
 ^verse-51
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -518,6 +620,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 52
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بَلْ يُرِيدُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُؤْتَىٰ صُحُفًا مُنَشَّرَةً</span>
+
 > Nay, but everyone of them desireth that he should be given open pages (from Allah).
 ^verse-52
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -528,6 +632,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 53
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَلَّا ۖ بَلْ لَا يَخَافُونَ الْآخِرَةَ</span>
+
 > Nay, verily. They fear not the Hereafter.
 ^verse-53
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -538,6 +644,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 54
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">كَلَّا إِنَّهُ تَذْكِرَةٌ</span>
+
 > Nay, verily. Lo! this is an Admonishment.
 ^verse-54
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -548,6 +656,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 55
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">فَمَنْ شَاءَ ذَكَرَهُ</span>
+
 > So whosoever will may heed.
 ^verse-55
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
@@ -558,6 +668,8 @@ ur_translation: لبادہ اوڑھنے والا
 ### thoughts
 
 # verse 56
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">وَمَا يَذْكُرُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ وَأَهْلُ الْمَغْفِرَةِ</span>
+
 > And they will not heed unless Allah willeth (it). He is the fount of fear. He is the fount of Mercy.
 ^verse-56
 <div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){{c.innerHTML='<iframe src=\'https://www.youtube.com/embed/=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'}})(this)">
