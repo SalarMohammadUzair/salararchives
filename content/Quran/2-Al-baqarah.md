@@ -1035,19 +1035,81 @@ Permanently humiliated for life Allah say
 ^verse-143
 
 ### thoughts
+- geographical middleness: critical chokepoints give leverage over the entire globe ( Suez canal, red sea and strait of hormuz), scholars say divinely intentional
+- moral and ideological balance: "ummatan wasatan" the verse says where "Wasat" means balance;
+	- pure materialism ( hedonism) vs pure spiritualism ( nirvana/Buddhism)
+	- Strict legalism vs complete permissiveness
+	- Individualism vs collectivism
+- the "witness" role. a civilizational responsibility, not just to practice faith but to serve as a moral reference point for humanity
+- " Should Tehran become the Geneva of the east, The destiny of the globe itself might be transformed"
+- But, A trust, not a privilege. you can only testify justly if you yourself are upright.
+	- Ibn Kathir in his tafsir writes that the phrase _"witnesses against mankind"_ carries a **legal/testimonial weight** — on the Day of Judgment, this ummah will testify that the previous prophets delivered their messages to their nations. The ummah serves as the final verification layer of prophetic history. Then immediately the verse pivots to the qiblah — **as a test of genuine followership**. Ibn Kathir states that Allah distinguished, through the qiblah change, those who truly follow the messenger from those who follow only their own reasoning or prior tradition.
+- The ummah is elevated as witness → **that elevation itself becomes a test**
+- The qiblah change is the _first concrete manifestation_ of that test
+- Those who accepted it demonstrated real faith; those who rejected it revealed they were following habit or ethnicity, not truth
+- 
+
 
 # verse 144
 > We have seen the turning of thy face to heaven (for guidance, O Muhammad). And now verily We shall make thee turn (in prayer) toward a qiblah which is dear to thee. So turn thy face toward the Inviolable Place of Worship, and ye (O Muslims), wheresoever ye may be, turn your faces (when ye pray) toward it. Lo! Those who have received the Scripture know that (this revelation) is the Truth from their Lord. And Allah is not unaware of what they do.
 ^verse-144
 
 ### thoughts
+> Verse 143 — You are appointed witness, but you will be tested Verse 143 continued — The qiblah test already happened, it was hard, but Allah didn't waste your faith Verse 144 — **And now watch what Allah does for the one who passed the test**
+
+- "qad nara" — We have seen
+	- Allah does not say _We know_ or _We are aware._ He says **We have been watching** your face turning toward the sky. It carries intimacy. It carries the sense that this longing did not go unnoticed for even a moment.
+- And then the final stroke:
+	- "Those who received the Scripture know this is Truth from their Lord."
+	- 
 
 # verse 145
 > And even if thou broughtest unto those who have received the Scripture all kinds of portents, they would not follow thy qiblah, nor canst thou be a follower of their qiblah; nor are some of them followers of the qiblah of others. And if thou shouldst follow their desires after the knowledge which hath come unto thee, then surely wert thou of the evil-doers.
 ^verse-145
 
 ### thoughts
+- Ibn Kathir notes this verse was revealed in a context where the Prophet genuinely hoped that the qiblah change to Mecca — away from Jerusalem — might bring the Jewish tribes of Madinah closer to accepting Islam, since it was no longer "competing" with their direction.
+- The verse is Allah's direct response to that hope:
+	- It won't work. Not because of the qiblah. Because their rejection is not about the qiblah.
+	- Their rejection is about the **orienting axis itself** — who holds authority, who defines truth, whose civilization sits at the center.
+The West's qiblah has shifted over centuries — from Rome, to the Church, to Enlightenment reason, to liberal democratic values, to market capitalism. But it has _a_ qiblah. It faces somewhere.
+The Far East — Confucian order, Hindu dharma, Buddhist cosmology — faces somewhere else entirely.
+The verse is saying these are not just _differences of opinion._ They are **structural, load-bearing differences** in how a civilization is built. You cannot simply present evidence and expect the other to reorient — because accepting your evidence would require them to **demolish and rebuild their entire civilizational foundation.**
+- ***The warning at the end:***
+		"If you follow their desires after the knowledge that has come to you — you would be among the wrongdoers."
+This is not a soft suggestion. Allah is saying:
+	The temptation to seek their approval, to adjust your qiblah slightly toward theirs to find common ground, to be accepted by the dominant civilization of your time — **that temptation is itself a form of wrongdoing.**
+Because it would mean:
+- Abandoning your witness role
+- Pretending the difference doesn't exist
+- Seeking legitimacy from the very people you are meant to testify over ( UAE👀)
+#### BUT, to pushback.
+There is a vast difference between:
 
+- _"Don't abandon your values to seek their validation"_
+- _"Stay permanently hostile to everyone who differs from you"_
+The Afghan Taliban reading — and similar extremist readings — collapse that distinction entirely. They turn a verse about **spiritual and civilizational integrity** into a justification for perpetual hostility. That is a serious misreading.
+> _"Allah does not forbid you from being kind and just to those who have not fought you"_ (60:8)
+
+And evident through the prophet's life:
+- The Prophet maintained trade relations, treaties, diplomatic exchanges with non-Muslims throughout his life
+- The Constitution of Madinah literally guaranteed rights and alliance with Jewish tribes
+So the Core essence is, **Do not dilute your identity**, but **Justice, kindness, cooperation are obligatory**
+#### "following their desires"  means:
+- Abandoning the qiblah to please them
+- Changing religious rulings under social pressure ()
+	- Under Abbasid Caliph al-Ma'mun and his successors, scholars were _forced_ to publicly declare that the Quran was created (a Mutazilite position). Imam Ahmad ibn Hanbal famously **refused** to change his position under severe torture and imprisonment — and is celebrated in Sunni tradition precisely _because_ he resisted state pressure to alter a religious ruling. This is a clear historical case of political authority trying to impose a theological position on scholars.
+	- In the 19th–20th century, there are documented cases in the Ottoman Empire and British India where religious establishments issued fatwas under state pressure — for example, the Ottoman Sheikh ul-Islam issuing a fatwa declaring jihad in WWI at the Sultan's request (1914), which many scholars viewed as politically motivated rather than purely religious reasoning.
+	- THE MOST EVIDENT MODERN DAY EXAMPLE? The abraham records.
+- Seeking their religious validation as a source of legitimacy
+
+#### The Afghan/extremist error?
+What groups like the Taliban do is take verses about maintaining civilizational and spiritual identity and weaponize them into a totalizing hostility toward everything outside their interpretation. This requires ignoring:
+- Enormous bodies of fiqh on relations with non-Muslims
+- The Prophet's own example of coexistence
+- The Quranic verses explicitly commanding justice toward all people
+- The very _"middle nation"_ framing, moderation and balance is the whole point
+A witness is not a warrior against everyone. A witness is someone who stands in the middle, observes justly, and testifies truthfully.
 # verse 146
 > Those unto whom We gave the Scripture recognise (this revelation) as they recognise their sons. But lo! a party of them knowingly conceal the truth.
 ^verse-146
