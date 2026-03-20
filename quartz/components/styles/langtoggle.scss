@@ -37,7 +37,8 @@
 :root[saved-lang="ur"] .lang-ur { display: inline; }
 
 /* Right align the article title and set RTL direction when in Urdu mode */
-:root[saved-lang="ur"] .article-title {
+:root[saved-lang="ur"] .article-title,
+:root[saved-lang="ur"] .article-subtitle {
   text-align: right;
   direction: rtl;
 }

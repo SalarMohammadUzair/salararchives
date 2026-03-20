@@ -11,13 +11,13 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
     return (
       <div class={classNames(displayClass, "article-title-container")}>
         <h1 class="article-title">
-          <span class="lang-en">{title as string}</span>
+          <span class={urduTitle ? "lang-en" : ""}>{title as string}</span>
           {urduTitle && <span class="lang-ur">{urduTitle as string}</span>}
         </h1>
         {(enTranslation || urTranslation) && (
           <div class="article-subtitle" style={{ marginTop: "0.2rem", fontSize: "1.2rem", color: "var(--gray)", fontStyle: "italic" }}>
-            {enTranslation && <span class="lang-en">{enTranslation as string}</span>}
-            {urTranslation && <span class="lang-ur">{urTranslation as string}</span>}
+            {enTranslation && <span class={urTranslation ? "lang-en" : ""}>{enTranslation as string}</span>}
+            {urTranslation && <span class={enTranslation ? "lang-ur" : ""}>{urTranslation as string}</span>}
           </div>
         )}
       </div>
