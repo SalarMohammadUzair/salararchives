@@ -15,7 +15,7 @@ Oh Allah,  please bestow upon me the khilafat,  entrust it to me and please allo
 
 
 ## Verse 1
-<div dir="rtl" class="quran-arabic">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ</div>
+<span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">بِسْمِ اللَّهِ الرَّحْمَـٰنِ الرَّحِيمِ</span>
 
 > In the name of Allah, Most Gracious, Most Merciful.
 ^verse-1
@@ -27,7 +27,7 @@ Oh Allah,  please bestow upon me the khilafat,  entrust it to me and please allo
 ### thoughts
 
 ## Verse 2
-> <div dir="rtl" class="quran-arabic">الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</div>
+> <span dir="rtl" class="quran-arabic" style="display:block; font-size:2rem;">الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ</span>
 > 
 > Praise be to Allah, the Cherisher and Sustainer of the worlds;
 ^verse-2
