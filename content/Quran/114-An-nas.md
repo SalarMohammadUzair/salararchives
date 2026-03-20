@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 114-An-nas
-urdu_title: سُورَةُ النَّاسِ
+urdu_title: سورة الناس
 ---
 
 # verse 1

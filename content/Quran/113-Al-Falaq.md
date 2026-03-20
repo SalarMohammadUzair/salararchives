@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 113-Al-Falaq
-urdu_title: سُورَةُ الفَلَقِ
+urdu_title: سورة الفلق
 ---
 
 # verse 1

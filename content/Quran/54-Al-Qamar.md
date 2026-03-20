@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 54-Al-Qamar
-urdu_title: سُورَةُ القَمَرِ
+urdu_title: سورة القمر
 ---
 
 # verse 1

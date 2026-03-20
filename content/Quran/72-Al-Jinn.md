@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 72-Al-Jinn
-urdu_title: سُورَةُ الجِنِّ
+urdu_title: سورة الجن
 ---
 
 # verse 1

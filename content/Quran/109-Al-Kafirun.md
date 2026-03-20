@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 109-Al-Kafirun
-urdu_title: سُورَةُ الكَافِرُونَ
+urdu_title: سورة الكافرون
 ---
 
 # verse 1

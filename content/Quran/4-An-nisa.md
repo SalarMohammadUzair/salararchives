@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 4-An-nisa
-urdu_title: سُورَةُ النِّسَاءِ
+urdu_title: سورة النساء
 ---
 
 # verse 1

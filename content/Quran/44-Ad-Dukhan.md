@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 44-Ad-Dukhan
-urdu_title: سُورَةُ الدُّخَانِ
+urdu_title: سورة الدخان
 ---
 
 # verse 1

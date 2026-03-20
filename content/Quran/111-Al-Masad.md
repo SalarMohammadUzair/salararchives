@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 111-Al-Masad
-urdu_title: سُورَةُ المَسَدِ
+urdu_title: سورة المسد
 ---
 
 # verse 1

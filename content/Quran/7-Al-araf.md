@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 7-Al-araf
-urdu_title: سُورَةُ الأَعۡرَافِ
+urdu_title: سورة الأعۡراف
 ---
 
 # verse 1

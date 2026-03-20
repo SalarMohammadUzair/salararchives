@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 94-Ash-Sharh
-urdu_title: سُورَةُ الشَّرۡحِ
+urdu_title: سورة الشرۡح
 ---
 
 # verse 1

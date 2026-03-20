@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 97-Al-Qadr
-urdu_title: سُورَةُ القَدۡرِ
+urdu_title: سورة القدۡر
 ---
 
 # verse 1

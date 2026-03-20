@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 28-Al-Qasas
-urdu_title: سُورَةُ القَصَصِ
+urdu_title: سورة القصص
 ---
 
 # verse 1

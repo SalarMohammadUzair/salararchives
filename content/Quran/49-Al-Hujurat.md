@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 49-Al-Hujurat
-urdu_title: سُورَةُ الحُجُرَاتِ
+urdu_title: سورة الحجرات
 ---
 
 # verse 1

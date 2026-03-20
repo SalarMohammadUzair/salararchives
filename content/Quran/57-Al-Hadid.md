@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 57-Al-Hadid
-urdu_title: سُورَةُ الحَدِيدِ
+urdu_title: سورة الحديد
 ---
 
 # verse 1

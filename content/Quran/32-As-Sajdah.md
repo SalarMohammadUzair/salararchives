@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 32-As-Sajdah
-urdu_title: سُورَةُ السَّجۡدَةِ
+urdu_title: سورة السجۡدة
 ---
 
 # verse 1

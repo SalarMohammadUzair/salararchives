@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 14-Ibrahim
-urdu_title: سُورَةُ إِبۡرَاهِيمَ
+urdu_title: سورة إبۡراهيم
 ---
 
 # verse 1

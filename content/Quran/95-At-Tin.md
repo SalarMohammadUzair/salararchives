@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 95-At-Tin
-urdu_title: سُورَةُ التِّينِ
+urdu_title: سورة التين
 ---
 
 # verse 1

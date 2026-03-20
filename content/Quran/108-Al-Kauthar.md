@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 108-Al-Kauthar
-urdu_title: سُورَةُ الكَوۡثَرِ
+urdu_title: سورة الكوۡثر
 ---
 
 # verse 1

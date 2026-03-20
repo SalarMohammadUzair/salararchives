@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 19-Maryam
-urdu_title: سُورَةُ مَرۡيَمَ
+urdu_title: سورة مرۡيم
 ---
 
 # verse 1

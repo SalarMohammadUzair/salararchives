@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 102-At-Takathur
-urdu_title: سُورَةُ التَّكَاثُرِ
+urdu_title: سورة التكاثر
 ---
 
 # verse 1

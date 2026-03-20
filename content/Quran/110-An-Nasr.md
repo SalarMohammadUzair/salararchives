@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 110-An-Nasr
-urdu_title: سُورَةُ النَّصۡرِ
+urdu_title: سورة النصۡر
 ---
 
 # verse 1

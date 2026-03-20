@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 17-Al-Isra
-urdu_title: سُورَةُ الإِسۡرَاءِ
+urdu_title: سورة الإسۡراء
 ---
 
 # verse 1

@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 70-Al-Maarij
-urdu_title: سُورَةُ المَعَارِجِ
+urdu_title: سورة المعارج
 ---
 
 # verse 1

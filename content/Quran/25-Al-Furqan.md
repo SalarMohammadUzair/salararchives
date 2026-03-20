@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 25-Al-Furqan
-urdu_title: سُورَةُ الفُرۡقَانِ
+urdu_title: سورة الفرۡقان
 ---
 
 # verse 1

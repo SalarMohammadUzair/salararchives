@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 9-At-tawbah
-urdu_title: سُورَةُ التَّوۡبَةِ
+urdu_title: سورة التوۡبة
 ---
 
 # verse 1

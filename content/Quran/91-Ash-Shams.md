@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 91-Ash-Shams
-urdu_title: سُورَةُ الشَّمۡسِ
+urdu_title: سورة الشمۡس
 ---
 
 # verse 1

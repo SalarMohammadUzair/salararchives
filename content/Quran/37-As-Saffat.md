@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 37-As-Saffat
-urdu_title: سُورَةُ الصَّافَّاتِ
+urdu_title: سورة الصافات
 ---
 
 # verse 1

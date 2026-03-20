@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 60-Al-Mumtahanah
-urdu_title: سُورَةُ المُمۡتَحنَةِ
+urdu_title: سورة الممۡتحنة
 ---
 
 # verse 1

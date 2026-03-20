@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 41-Fussilat
-urdu_title: سُورَةُ فُصِّلَتۡ
+urdu_title: سورة فصلتۡ
 ---
 
 # verse 1

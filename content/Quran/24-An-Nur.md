@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 24-An-Nur
-urdu_title: سُورَةُ النُّورِ
+urdu_title: سورة النور
 ---
 
 # verse 1

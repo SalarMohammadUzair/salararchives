@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 107-Al-Maun
-urdu_title: سُورَةُ المَاعُونِ
+urdu_title: سورة الماعون
 ---
 
 # verse 1

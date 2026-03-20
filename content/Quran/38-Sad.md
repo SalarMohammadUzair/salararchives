@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 38-Sad
-urdu_title: سُورَةُ صٓ
+urdu_title: سورة ص
 ---
 
 # verse 1

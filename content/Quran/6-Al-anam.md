@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 6-Al-anam
-urdu_title: سُورَةُ الأَنۡعَامِ
+urdu_title: سورة الأنۡعام
 ---
 
 # verse 1

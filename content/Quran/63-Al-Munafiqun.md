@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 63-Al-Munafiqun
-urdu_title: سُورَةُ المُنَافِقُونَ
+urdu_title: سورة المنافقون
 ---
 
 # verse 1

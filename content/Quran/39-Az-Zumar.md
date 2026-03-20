@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 39-Az-Zumar
-urdu_title: سُورَةُ الزُّمَرِ
+urdu_title: سورة الزمر
 ---
 
 # verse 1

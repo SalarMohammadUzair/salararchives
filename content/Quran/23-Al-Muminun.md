@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 23-Al-Muminun
-urdu_title: سُورَةُ المُؤۡمِنُونَ
+urdu_title: سورة المؤۡمنون
 ---
 
 # verse 1

@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 73-Al-Muzzammil
-urdu_title: سُورَةُ المُزَّمِّلِ
+urdu_title: سورة المزمل
 ---
 
 # verse 1

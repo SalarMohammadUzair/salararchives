@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 103-Al-Asr
-urdu_title: سُورَةُ العَصۡرِ
+urdu_title: سورة العصۡر
 ---
 
 # verse 1

@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 53-An-Najm
-urdu_title: سُورَةُ النَّجۡمِ
+urdu_title: سورة النجۡم
 ---
 
 # verse 1

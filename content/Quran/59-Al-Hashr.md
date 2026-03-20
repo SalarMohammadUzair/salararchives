@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 59-Al-Hashr
-urdu_title: سُورَةُ الحَشۡرِ
+urdu_title: سورة الحشۡر
 ---
 
 # verse 1

@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 31-Luqman
-urdu_title: سُورَةُ لُقۡمَانَ
+urdu_title: سورة لقۡمان
 ---
 
 # verse 1

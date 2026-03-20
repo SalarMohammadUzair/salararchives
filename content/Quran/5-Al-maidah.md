@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 5-Al-maidah
-urdu_title: سُورَةُ المَائـِدَةِ
+urdu_title: سورة المائـدة
 ---
 
 # verse 1

@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 101-Al-Qariah
-urdu_title: سُورَةُ القَارِعَةِ
+urdu_title: سورة القارعة
 ---
 
 # verse 1

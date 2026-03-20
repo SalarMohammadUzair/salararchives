@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 43-Az-Zukhruf
-urdu_title: سُورَةُ الزُّخۡرُفِ
+urdu_title: سورة الزخۡرف
 ---
 
 # verse 1

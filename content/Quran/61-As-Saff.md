@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 61-As-Saff
-urdu_title: سُورَةُ الصَّفِّ
+urdu_title: سورة الصف
 ---
 
 # verse 1

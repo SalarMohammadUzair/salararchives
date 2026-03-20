@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 106-Quraish
-urdu_title: سُورَةُ قُرَيۡشٍ
+urdu_title: سورة قريۡش
 ---
 
 # verse 1

@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 30-Ar-Rum
-urdu_title: سُورَةُ الرُّومِ
+urdu_title: سورة الروم
 ---
 
 # verse 1

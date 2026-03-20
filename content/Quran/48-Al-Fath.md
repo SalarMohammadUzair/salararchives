@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 48-Al-Fath
-urdu_title: سُورَةُ الفَتۡحِ
+urdu_title: سورة الفتۡح
 ---
 
 # verse 1

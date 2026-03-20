@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 64-At-Taghabun
-urdu_title: سُورَةُ التَّغَابُنِ
+urdu_title: سورة التغابن
 ---
 
 # verse 1

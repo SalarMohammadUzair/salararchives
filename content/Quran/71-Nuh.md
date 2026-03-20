@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 71-Nuh
-urdu_title: سُورَةُ نُوحٍ
+urdu_title: سورة نوح
 ---
 
 # verse 1

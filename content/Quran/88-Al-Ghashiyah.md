@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 88-Al-Ghashiyah
-urdu_title: سُورَةُ الغَاشِيَةِ
+urdu_title: سورة الغاشية
 ---
 
 # verse 1

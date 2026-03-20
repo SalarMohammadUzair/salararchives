@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 89-Al-Fajr
-urdu_title: سُورَةُ الفَجۡرِ
+urdu_title: سورة الفجۡر
 ---
 
 # verse 1

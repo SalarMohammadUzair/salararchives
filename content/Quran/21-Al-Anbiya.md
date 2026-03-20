@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 21-Al-Anbiya
-urdu_title: سُورَةُ الأَنبِيَاءِ
+urdu_title: سورة الأنبياء
 ---
 
 # verse 1

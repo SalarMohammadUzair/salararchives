@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 112-Al-Ikhlas
-urdu_title: سُورَةُ الإِخۡلَاصِ
+urdu_title: سورة الإخۡلاص
 ---
 
 # verse 1

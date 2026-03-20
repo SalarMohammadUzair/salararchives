@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 34-Saba
-urdu_title: سُورَةُ سَبَإٍ
+urdu_title: سورة سبإ
 ---
 
 # verse 1

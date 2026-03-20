@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 50-Qaf
-urdu_title: سُورَةُ قٓ
+urdu_title: سورة ق
 ---
 
 # verse 1

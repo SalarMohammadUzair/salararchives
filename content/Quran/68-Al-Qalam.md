@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 68-Al-Qalam
-urdu_title: سُورَةُ القَلَمِ
+urdu_title: سورة القلم
 ---
 
 # verse 1

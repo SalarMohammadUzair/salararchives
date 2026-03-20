@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 105-Al-Fil
-urdu_title: سُورَةُ الفِيلِ
+urdu_title: سورة الفيل
 ---
 
 # verse 1

@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 42-Ash-Shura
-urdu_title: سُورَةُ الشُّورَىٰ
+urdu_title: سورة الشورى
 ---
 
 # verse 1

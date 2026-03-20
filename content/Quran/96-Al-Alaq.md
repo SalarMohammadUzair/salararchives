@@ -2,7 +2,7 @@
 tags:
   - quran
 title: 96-Al-Alaq
-urdu_title: سُورَةُ العَلَقِ
+urdu_title: سورة العلق
 ---
 
 # verse 1
