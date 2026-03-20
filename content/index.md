@@ -1,5 +1,6 @@
 ---
 title: salararchives
+urdu_title: سالار کا ذخیرہ
 socialImage: /assets/rafael.png
 ---
 

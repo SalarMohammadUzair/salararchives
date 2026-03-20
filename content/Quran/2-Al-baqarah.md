@@ -7,6 +7,13 @@ en_translation: The Cow
 ur_translation: گائے
 ---
 
+### Arabic Text Preview
+**Option 1: Arabic OUTSIDE the blockquote (Fatihah Verse 1)**
+![[1-Al-Fatihah#^verse-1]]
+
+**Option 2: Arabic INSIDE the blockquote (Fatihah Verse 2)**
+![[1-Al-Fatihah#^verse-2]]
+
 Allah opens his light to the self aware
 In the ending of Fatihah, we ask Allah
 Oh Allah guide us, and in response  at the start of this surah, Allah shows the path, this book, this is the one that contains the guide. 
