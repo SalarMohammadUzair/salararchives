@@ -1033,6 +1033,10 @@ Permanently humiliated for life Allah say
 # verse 143
 > Thus We have appointed you a middle nation, that ye may be witnesses against mankind, and that the messenger may be a witness against you. And We appointed the qiblah which ye formerly observed only that We might know him who followeth the messenger, from him who turneth on his heels. In truth it was a hard (test) save for those whom Allah guided. But it was not Allah's purpose that your faith should be in vain, for Allah is Full of Pity, Merciful toward mankind.
 ^verse-143
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;cursor:pointer" onclick="(function(c){c.innerHTML='<iframe src=\'https://www.youtube.com/embed/lZoznkGl_WI?autoplay=1\' style=\'position:absolute;top:0;left:0;width:100%;height:100%;border:none\' allow=\'autoplay;encrypted-media\' allowfullscreen></iframe>'})(this)">
+  <img src="https://img.youtube.com/vi/lZoznkGl_WI/maxresdefault.jpg" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover">
+  <span style="position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);font-size:3.5rem;color:#fff;text-shadow:0 0 20px rgba(0,0,0,0.8);pointer-events:none">▶</span>
+</div>
 
 ### thoughts
 - geographical middleness: critical chokepoints give leverage over the entire globe ( Suez canal, red sea and strait of hormuz), scholars say divinely intentional
