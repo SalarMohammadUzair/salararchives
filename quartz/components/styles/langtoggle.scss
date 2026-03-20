@@ -36,9 +36,9 @@
 :root[saved-lang="ur"] .lang-en { display: none; }
 :root[saved-lang="ur"] .lang-ur { display: inline; }
 
-/* Right align the article title and set RTL direction when in Urdu mode */
-:root[saved-lang="ur"] .article-title,
-:root[saved-lang="ur"] .article-subtitle {
+/* Right align the article title and set RTL direction when in Urdu mode ONLY for notes with actual Urdu translations */
+:root[saved-lang="ur"] .has-urdu .article-title,
+:root[saved-lang="ur"] .has-urdu .article-subtitle {
   text-align: right;
   direction: rtl;
 }

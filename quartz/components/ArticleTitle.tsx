@@ -9,7 +9,7 @@ const ArticleTitle: QuartzComponent = ({ fileData, displayClass }: QuartzCompone
   
   if (title) {
     return (
-      <div class={classNames(displayClass, "article-title-container")}>
+      <div class={classNames(displayClass, "article-title-container", (urduTitle || urTranslation) ? "has-urdu" : "")}>
         <h1 class="article-title">
           <span class={urduTitle ? "lang-en" : ""}>{title as string}</span>
           {urduTitle && <span class="lang-ur">{urduTitle as string}</span>}
