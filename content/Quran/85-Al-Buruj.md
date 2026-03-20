@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 85-Al-Buruj
+urdu_title: سُورَةُ البُرُوجِ
 ---
 
 # verse 1

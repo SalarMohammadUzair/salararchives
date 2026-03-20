@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 56-Al-Waqiah
+urdu_title: سُورَةُ الوَاقِعَةِ
 ---
 
 # verse 1

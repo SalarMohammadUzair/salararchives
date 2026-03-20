@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 16-An-Nahl
+urdu_title: سُورَةُ النَّحۡلِ
 ---
 
 # verse 1

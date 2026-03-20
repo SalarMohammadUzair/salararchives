@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 98-Al-Bayyinah
+urdu_title: سُورَةُ البَيِّنَةِ
 ---
 
 # verse 1

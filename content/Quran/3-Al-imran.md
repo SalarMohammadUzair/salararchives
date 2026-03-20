@@ -3,6 +3,7 @@ title: 3-Al-Imran
 draft: false
 tags:
   - quran
+urdu_title: سُورَةُ آلِ عِمۡرَانَ
 ---
 # Main deal 
 ## verse 1

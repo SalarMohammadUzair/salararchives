@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 87-Al-Ala
+urdu_title: سُورَةُ الأَعۡلَىٰ
 ---
 
 # verse 1

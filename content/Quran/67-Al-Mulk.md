@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 67-Al-Mulk
+urdu_title: سُورَةُ المُلۡكِ
 ---
 
 # verse 1

@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 69-Al-Haqqah
+urdu_title: سُورَةُ الحَاقَّةِ
 ---
 
 # verse 1

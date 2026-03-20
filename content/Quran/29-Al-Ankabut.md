@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 29-Al-Ankabut
+urdu_title: سُورَةُ العَنكَبُوتِ
 ---
 
 # verse 1

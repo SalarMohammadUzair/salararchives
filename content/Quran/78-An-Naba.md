@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 78-An-Naba
+urdu_title: سُورَةُ النَّبَإِ
 ---
 
 # verse 1

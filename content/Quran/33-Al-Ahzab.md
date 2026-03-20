@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 33-Al-Ahzab
+urdu_title: سُورَةُ الأَحۡزَابِ
 ---
 
 # verse 1

@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 93-Ad-Duhaa
+urdu_title: سُورَةُ الضُّحَىٰ
 ---
 
 # verse 1

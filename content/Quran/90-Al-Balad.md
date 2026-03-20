@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 90-Al-Balad
+urdu_title: سُورَةُ البَلَدِ
 ---
 
 # verse 1

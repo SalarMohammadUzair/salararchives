@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 12-Yusuf
+urdu_title: سُورَةُ يُوسُفَ
 ---
 
 # verse 1

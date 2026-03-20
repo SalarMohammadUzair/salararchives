@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 99-Az-Zalzalah
+urdu_title: سُورَةُ الزَّلۡزَلَةِ
 ---
 
 # verse 1

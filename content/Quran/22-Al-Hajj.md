@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 22-Al-Hajj
+urdu_title: سُورَةُ الحَجِّ
 ---
 
 # verse 1

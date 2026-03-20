@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 92-Al-Lail
+urdu_title: سُورَةُ اللَّيۡلِ
 ---
 
 # verse 1

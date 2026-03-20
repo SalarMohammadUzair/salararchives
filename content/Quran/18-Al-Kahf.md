@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 18-Al-Kahf
+urdu_title: سُورَةُ الكَهۡفِ
 ---
 
 # verse 1

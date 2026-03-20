@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 45-Al-Jathiyah
+urdu_title: سُورَةُ الجَاثِيَةِ
 ---
 
 # verse 1

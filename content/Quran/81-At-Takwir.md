@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 81-At-Takwir
+urdu_title: سُورَةُ التَّكۡوِيرِ
 ---
 
 # verse 1

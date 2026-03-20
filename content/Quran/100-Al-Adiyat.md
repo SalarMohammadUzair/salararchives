@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 100-Al-Adiyat
+urdu_title: سُورَةُ العَادِيَاتِ
 ---
 
 # verse 1

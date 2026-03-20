@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 46-Al-Ahqaf
+urdu_title: سُورَةُ الأَحۡقَافِ
 ---
 
 # verse 1

@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 52-At-Tur
+urdu_title: سُورَةُ الطُّورِ
 ---
 
 # verse 1

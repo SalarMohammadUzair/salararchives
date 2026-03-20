@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 55-Ar-Rahman
+urdu_title: سُورَةُ الرَّحۡمَٰن
 ---
 
 # verse 1

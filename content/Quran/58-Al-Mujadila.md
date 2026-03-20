@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 58-Al-Mujadila
+urdu_title: سُورَةُ المُجَادلَةِ
 ---
 
 # verse 1

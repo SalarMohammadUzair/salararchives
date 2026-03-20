@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 26-Ash-Shuara
+urdu_title: سُورَةُ الشُّعَرَاءِ
 ---
 
 # verse 1

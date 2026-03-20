@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 86-At-Tariq
+urdu_title: سُورَةُ الطَّارِقِ
 ---
 
 # verse 1

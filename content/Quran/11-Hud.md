@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 11-Hud
+urdu_title: سُورَةُ هُودٍ
 ---
 
 # verse 1

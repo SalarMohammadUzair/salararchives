@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 10-Yunus
+urdu_title: سُورَةُ يُونُسَ
 ---
 
 # verse 1

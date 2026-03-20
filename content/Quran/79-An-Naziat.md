@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 79-An-Naziat
+urdu_title: سُورَةُ النَّازِعَاتِ
 ---
 
 # verse 1

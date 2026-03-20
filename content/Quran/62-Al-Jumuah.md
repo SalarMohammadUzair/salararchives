@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 62-Al-Jumuah
+urdu_title: سُورَةُ الجُمُعَةِ
 ---
 
 # verse 1

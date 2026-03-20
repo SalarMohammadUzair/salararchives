@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 65-At-Talaq
+urdu_title: سُورَةُ الطَّلَاقِ
 ---
 
 # verse 1

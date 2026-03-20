@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 40-Ghafir
+urdu_title: سُورَةُ غَافِرٍ
 ---
 
 # verse 1

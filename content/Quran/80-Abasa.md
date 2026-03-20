@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 80-Abasa
+urdu_title: سُورَةُ عَبَسَ
 ---
 
 # verse 1

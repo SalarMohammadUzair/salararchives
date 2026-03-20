@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 84-Al-Inshiqaq
+urdu_title: سُورَةُ الانشِقَاقِ
 ---
 
 # verse 1

@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 66-At-Tahrim
+urdu_title: سُورَةُ التَّحۡرِيمِ
 ---
 
 # verse 1

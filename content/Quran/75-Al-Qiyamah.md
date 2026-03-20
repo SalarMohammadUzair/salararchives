@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 75-Al-Qiyamah
+urdu_title: سُورَةُ القِيَامَةِ
 ---
 
 # verse 1

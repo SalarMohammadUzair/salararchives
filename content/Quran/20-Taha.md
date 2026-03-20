@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 20-Taha
+urdu_title: سُورَةُ طه
 ---
 
 # verse 1

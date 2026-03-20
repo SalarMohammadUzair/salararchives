@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 104-Al-Humazah
+urdu_title: سُورَةُ الهُمَزَةِ
 ---
 
 # verse 1

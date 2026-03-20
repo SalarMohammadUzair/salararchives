@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 82-Al-Infitar
+urdu_title: سُورَةُ الانفِطَارِ
 ---
 
 # verse 1

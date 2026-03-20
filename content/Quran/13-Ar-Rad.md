@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 13-Ar-Rad
+urdu_title: سُورَةُ الرَّعۡدِ
 ---
 
 # verse 1

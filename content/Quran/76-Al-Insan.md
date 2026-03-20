@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 76-Al-Insan
+urdu_title: سُورَةُ الإِنسَانِ
 ---
 
 # verse 1

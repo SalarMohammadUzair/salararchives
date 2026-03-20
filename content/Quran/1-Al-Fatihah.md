@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 1-Al-Fatihah
+urdu_title: سُورَةُ ٱلْفَاتِحَةِ
 ---
 
 The ultimate prayer. 

@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 35-Fatir
+urdu_title: سُورَةُ فَاطِرٍ
 ---
 
 # verse 1

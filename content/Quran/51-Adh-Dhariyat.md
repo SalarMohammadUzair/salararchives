@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 51-Adh-Dhariyat
+urdu_title: سُورَةُ الذَّارِيَاتِ
 ---
 
 # verse 1

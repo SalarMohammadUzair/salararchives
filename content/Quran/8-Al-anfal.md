@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 8-Al-anfal
+urdu_title: سُورَةُ الأَنفَالِ
 ---
 
 # verse 1

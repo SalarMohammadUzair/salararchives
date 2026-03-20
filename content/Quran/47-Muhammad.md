@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 47-Muhammad
+urdu_title: سُورَةُ مُحَمَّدٍ
 ---
 
 # verse 1

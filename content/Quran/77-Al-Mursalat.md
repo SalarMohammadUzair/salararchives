@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 77-Al-Mursalat
+urdu_title: سُورَةُ المُرۡسَلَاتِ
 ---
 
 # verse 1

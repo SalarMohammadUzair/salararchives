@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 15-Al-Hijr
+urdu_title: سُورَةُ الحِجۡرِ
 ---
 
 # verse 1

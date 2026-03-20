@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 36-Ya-Sin
+urdu_title: سُورَةُ يسٓ
 ---
 
 # verse 1

@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 27-An-Naml
+urdu_title: سُورَةُ النَّمۡلِ
 ---
 
 # verse 1

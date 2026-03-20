@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 83-Al-Mutaffifin
+urdu_title: سُورَةُ المُطَفِّفِينَ
 ---
 
 # verse 1

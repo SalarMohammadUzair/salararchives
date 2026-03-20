@@ -2,6 +2,7 @@
 tags:
   - quran
 title: 74-Al-Muddaththir
+urdu_title: سُورَةُ المُدَّثِّرِ
 ---
 
 # verse 1
