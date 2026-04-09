@@ -36,7 +36,7 @@ ____
 > [!example] Archive
 > * [mf19](https://www.cambridgeinternational.org/Images/417318-list-of-formulae-and-statistical-tables.pdf)
 > * [math syllabus](https://www.cambridgeinternational.org/Images/697427-2026-2027-syllabus.pdf)
-> * [Gameplan](Quran/Gameplan.md) for quran
+> * [Gameplan](100%20Quartz/Quran/Gameplan.md) for quran
 
 
 

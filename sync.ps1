@@ -1,4 +1,4 @@
-$source = "f:\Documents\(07)Obsidian\obsidian_folder\heim\03 Archive\quartzsitefolder"
+$source = "f:\Documents\(07)Obsidian\obsidian_folder\heim\100 Quartz"
 $destination = "f:\Documents\myquartz\homepage\quartz\content"
 
 Write-Host "Copying files from Obsidian vault to Quartz content folder..." -ForegroundColor Cyan
