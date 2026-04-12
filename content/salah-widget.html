@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Amiri:ital@0;1&display=swap" rel="stylesheet">
+  <style>
+    /* PASTE YOUR WIDGET CSS HERE */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    .sl-container { padding: 1.5rem 0; font-family: sans-serif; }
+    /* ... rest of the styles ... */
+  </style>
+</head>
+<body>
+
+  <!-- PASTE YOUR WIDGET HTML HERE -->
+  <div class="sl-container">
+    <div class="sl-prog-bar"><div class="sl-prog-fill" id="sl-prog"></div></div>
+    <div class="sl-nav" id="sl-nav"></div>
+    <div id="sl-content"></div>
+    <div class="sl-nav-row">
+      <button class="sl-nav-btn" id="sl-prev" onclick="slGo(-1)">← Previous</button>
+      <button class="sl-nav-btn" id="sl-next" onclick="slGo(1)">Next →</button>
+    </div>
+  </div>
+
+  <!-- PASTE YOUR WIDGET JAVASCRIPT HERE -->
+  <script>
+    const slSteps = [ /* ... */ ];
+    let slCurrent = 0;
+    // ... rest of the functions ...
+    slRender();
+  </script>
+
+</body>
+</html>
