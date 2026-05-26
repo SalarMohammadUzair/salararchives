@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/.well-known/discord",
+      "destination": "/static/verification/discord"
+    }
+  ]
+}

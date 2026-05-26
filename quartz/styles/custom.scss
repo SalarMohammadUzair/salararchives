@@ -1,3 +1,247 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Quartz v5 frame and plugin CSS can paint opaque page wrappers over the html
+// background and can also let tablet sidebars share the content column. Keep the
+// default content frame bounded and transparent so the archive background shows.
+#quartz-root.page {
+  box-sizing: border-box;
+  display: block;
+  min-width: 0;
+  width: 100%;
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 0;
+  background: transparent;
+}
+
+.page:not([data-frame="canvas"]):not([data-frame="excalidraw"]):not([data-frame="full-width"]):not([data-frame="minimal"]) > #quartz-body {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  justify-content: center;
+  grid-template-areas:
+    "grid-sidebar-left grid-header grid-sidebar-right"
+    "grid-sidebar-left grid-center grid-sidebar-right"
+    "grid-sidebar-left grid-footer grid-sidebar-right";
+  grid-template-columns: minmax(13rem, 20rem) minmax(0, 50rem) minmax(12rem, 18rem);
+  background: transparent;
+
+  @media all and (min-width: 800px) and (max-width: 1200px) {
+    grid-template-areas:
+      "grid-sidebar-left grid-header"
+      "grid-sidebar-left grid-center"
+      "grid-sidebar-left grid-sidebar-right"
+      "grid-sidebar-left grid-footer";
+    grid-template-columns: minmax(13rem, 20rem) minmax(0, 1fr);
+  }
+
+  @media all and (max-width: 800px) {
+    grid-template-areas:
+      "grid-sidebar-left"
+      "grid-header"
+      "grid-center"
+      "grid-sidebar-right"
+      "grid-footer";
+    grid-template-columns: minmax(0, 1fr);
+    padding: 0 1rem;
+  }
+
+  > .center {
+    grid-area: grid-center;
+    box-sizing: border-box;
+    min-width: 0;
+    width: 100%;
+    max-width: 50rem;
+    background: transparent;
+  }
+
+  > .sidebar {
+    min-width: 0;
+    background: transparent;
+  }
+
+  > .right.sidebar {
+    grid-area: grid-sidebar-right;
+  }
+
+  > footer {
+    box-sizing: border-box;
+    min-width: 0;
+    width: 100%;
+    max-width: 50rem;
+    background: transparent;
+  }
+
+  @media all and (max-width: 1200px) {
+    > .right.sidebar {
+      position: static;
+      height: auto;
+      width: 100%;
+      max-width: 100%;
+      flex-direction: row;
+      padding: 0;
+    }
+  }
+
+  @media all and (max-width: 800px) {
+    > .left.sidebar,
+    > .right.sidebar {
+      position: static;
+      height: auto;
+      max-width: 100%;
+    }
+  }
+}
+
+.center article,
+.center .page-header,
+.center .page-footer {
+  min-width: 0;
+  max-width: 100%;
+}
+
+pre,
+.table-container,
+.katex-display {
+  max-width: 100%;
+}
+
+.explorer.collapsed {
+  flex-basis: 2rem;
+  min-height: 2rem;
+}
+
+.explorer.collapsed > .desktop-explorer {
+  min-height: 1.5rem;
+  overflow: visible;
+}
+
+.explorer.collapsed > .explorer-content {
+  display: none;
+}
+
+// Load Vazirmatn for Urdu UI text (using @font-face instead of @import to avoid rule ordering issues)
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/vazirmatn/v13/Dxx78j6PP2D_kU2mukvTEhwdIz5K.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: "Vazirmatn";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/vazirmatn/v13/Dxx78j6PP2D_kU2mukvTEhwdI1JO.woff2) format('woff2');
+}
+
+// 1. Archive Scaling — only on article content, not the whole page
+article p, article li {
+  line-height: 1.75;
+  font-size: 1.1rem;
+  letter-spacing: 0.01em;
+}
+
+article h1 { font-size: 2.2rem; margin-top: 2rem; }
+article h2 { font-size: 1.7rem; margin-top: 1.8rem; }
+article h3 { font-size: 1.4rem; }
+article h4 { font-size: 1.2rem; }
+
+// 2. Hero Banner
+.hero-banner {
+  text-align: center;
+  padding: 2.5rem 1.5rem 2rem;
+  margin-bottom: 2rem;
+  border-radius: 14px;
+  background: linear-gradient(135deg, var(--lightgray) 0%, transparent 100%);
+  border: 1px solid var(--lightgray);
+
+  h1 {
+    font-size: 2.6rem;
+    margin: 0;
+    color: var(--secondary);
+  }
+
+  .hero-subtitle {
+    font-size: 0.95rem;
+    color: var(--gray);
+    margin-top: 0.5rem;
+    font-style: italic;
+  }
+}
+
+// 3. Smooth Transitions
+article {
+  animation: fadeSlideIn 0.35s ease-out;
+}
+
+@keyframes fadeSlideIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+// 4. Footer
+footer > p,
+footer > ul {
+  display: none;
+}
+
+footer::before {
+  display: block;
+  text-align: center;
+  font-weight: 700;
+  font-size: 1.05rem;
+  padding: 1.5rem 0;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--dark);
+  content: "In Service of the Khilafat";
+}
+
+:root[saved-lang="ur"] footer::before {
+  content: "خدمتِ خلافت ہمارا مقصد";
+  direction: rtl;
+  text-transform: none;
+  letter-spacing: 0;
+  font-family: "Vazirmatn", sans-serif;
+}
+
+// Apply Vazirmatn to all UI text when Urdu is active
+:root[saved-lang="ur"] .page-title,
+:root[saved-lang="ur"] .explorer h2,
+:root[saved-lang="ur"] .graph > h3,
+:root[saved-lang="ur"] .backlinks > h3,
+:root[saved-lang="ur"] button.toc-header h3,
+:root[saved-lang="ur"] .search-button > p {
+  font-family: "Vazirmatn", sans-serif;
+  direction: rtl;
+}
+
+// ===== 5. Stars Background — Dark Mode Only =====
+// Put the stars on <html> (which has no background set by default).
+// Make <body> transparent in dark mode so the html stars show through.
+// background-attachment:fixed on <html> is safe — sticky elements are in <body>, not <html>.
+:root[saved-theme="dark"] {
+  background-color: var(--light);
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbG5zOnN2Z2pzPSJodHRwOi8vc3ZnanMuZGV2L3N2Z2pzIiB2aWV3Qm94PSIwIDAgNzAwIDcwMCIgd2lkdGg9IjcwMCIgaGVpZ2h0PSI3MDAiPjxkZWZzPjxmaWx0ZXIgaWQ9Im5ubm9pc2UtZmlsdGVyIiB4PSItMjAlIiB5PSItMjAlIiB3aWR0aD0iMTQwJSIgaGVpZ2h0PSIxNDAlIiBmaWx0ZXJVbml0cz0ib2JqZWN0Qm91bmRpbmdCb3giIHByaW1pdGl2ZVVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY29sb3ItaW50ZXJwb2xhdGlvbi1maWx0ZXJzPSJsaW5lYXJSR0IiPgoJPGZlVHVyYnVsZW5jZSB0eXBlPSJ0dXJidWxlbmNlIiBiYXNlRnJlcXVlbmN5PSIwLjIiIG51bU9jdGF2ZXM9IjQiIHNlZWQ9IjE1IiBzdGl0Y2hUaWxlcz0ic3RpdGNoIiB4PSIwJSIgeT0iMCUiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHJlc3VsdD0idHVyYnVsZW5jZSI+PC9mZVR1cmJ1bGVuY2U+Cgk8ZmVTcGVjdWxhckxpZ2h0aW5nIHN1cmZhY2VTY2FsZT0iNDAiIHNwZWN1bGFyQ29uc3RhbnQ9IjAuNzUiIHNwZWN1bGFyRXhwb25lbnQ9IjIwIiBsaWdodGluZy1jb2xvcj0iI2JlYjdkZiIgeD0iMCUiIHk9IjAlIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBpbj0idHVyYnVsZW5jZSIgcmVzdWx0PSJzcGVjdWxhckxpZ2h0aW5nIj4KICAgIAkJPGZlRGlzdGFudExpZ2h0IGF6aW11dGg9IjMiIGVsZXZhdGlvbj0iMTAwIj48L2ZlRGlzdGFudExpZ2h0PgogIAk8L2ZlU3BlY3VsYXJMaWdodGluZz4KICAKPC9maWx0ZXI+PC9kZWZzPjxyZWN0IHdpZHRoPSI3MDAiIGhlaWdodD0iNzAwIiBmaWxsPSJ0cmFuc3BhcmVudCI+PC9yZWN0PjxyZWN0IHdpZHRoPSI3MDAiIGhlaWdodD0iNzAwIiBmaWxsPSIjYmViN2RmIiBmaWx0ZXI9InVybCgjbm5ub2lzZS1maWx0ZXIpIj48L3JlY3Q+PC9zdmc+");
+  background-repeat: repeat;
+  background-size: 700px 700px;
+  background-attachment: fixed;
+}
+
+// Keep theme/page wrappers from hiding the dark-mode stars.
+:root[saved-theme="dark"] body,
+:root[saved-theme="dark"] #quartz-root,
+:root[saved-theme="dark"] #quartz-body,
+:root[saved-theme="dark"] #quartz-body > .sidebar,
+:root[saved-theme="dark"] #quartz-body > .center {
+  background-color: transparent;
+  background-image: none;
+}
+
+// ===== 6. Light Mode — clean, no stars =====
+:root[saved-theme="light"] {
+  background-image: none;
+}
