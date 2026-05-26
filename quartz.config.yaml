@@ -180,16 +180,16 @@
 #     layout:
 #       position: beforeBody
 #       priority: 20
-  - source: github:quartz-community/tag-list
-    enabled: false
-    layout:
-      position: beforeBody
-      priority: 30
-  - source: github:quartz-community/page-title
-    enabled: true
-    layout:
-      position: left
-      priority: 10
+#   - source: github:quartz-community/tag-list
+#     enabled: false
+#     layout:
+#       position: beforeBody
+#       priority: 30
+#   - source: github:quartz-community/page-title
+#     enabled: true
+#     layout:
+#       position: left
+#       priority: 10
 #   - source: github:quartz-community/darkmode
 #     enabled: true
 #     layout:
@@ -458,6 +458,11 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+  - source: github:quartz-community/tag-list
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 30
   - source: github:quartz-community/page-title
     enabled: true
     layout:
