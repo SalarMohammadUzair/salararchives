@@ -56,9 +56,22 @@ function applyLang(lang: string) {
   if (searchP) searchP.textContent = translations["search-title"]!
 }
 
+function applyAutomaticTextDirection() {
+  const textBlocks = document.querySelectorAll<HTMLElement>(
+    "article p, article li, article h1, article h2, article h3, article h4, article h5, article h6",
+  )
+
+  for (const block of textBlocks) {
+    if (!block.hasAttribute("dir")) {
+      block.setAttribute("dir", "auto")
+    }
+  }
+}
+
 document.addEventListener("nav", () => {
   const lang = document.documentElement.getAttribute("saved-lang") ?? "ur"
   applyLang(lang)
+  applyAutomaticTextDirection()
 
   const switchLang = () => {
     const current = document.documentElement.getAttribute("saved-lang") ?? "ur"
