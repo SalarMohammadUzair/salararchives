@@ -3,11 +3,20 @@ import { PageTypes } from "./quartz/plugins"
 import { h } from "preact"
 import type { FullPageLayout } from "./quartz/cfg"
 import type { QuartzComponent } from "./quartz/components/types"
+import { componentRegistry } from "./quartz/components/registry"
 import { concatenateResources } from "./quartz/util/resources"
 import LanguageToggle from "./quartz/extensions/LanguageToggle"
 import ArticleTitle from "./quartz/extensions/ArticleTitle"
+import Search from "./quartz/extensions/Search"
 
 const config = await loadQuartzConfig()
+
+for (const key of componentRegistry.getAll().keys()) {
+  if (key === "search" || key === "Search" || key.endsWith("/Search")) {
+    componentRegistry.register(key, Search, "local:search-tokenizer")
+  }
+}
+
 export const layout = await loadQuartzLayout()
 
 const LanguageToggleComponent = LanguageToggle()
