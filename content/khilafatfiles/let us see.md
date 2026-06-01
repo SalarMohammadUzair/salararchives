@@ -1,9 +1,11 @@
 ---
-feature: 200 Quartz/assets/pray.jpg
-thumbnail: 999 assets/thumbnails/resized/0ffe8e7b5c84b5902b356ab721f0be1d_86cf658e.webp
+publish: true
+created: 2026-03-12T06:10:30.905+05:00
+modified: 2026-04-19T04:56:23.712+05:00
 ---
 
-![[pray.jpg]]
+![[assets/pray.jpg]]
 
 ---
-![[thesky.jpg]]
+
+![[assets/thesky.jpg]]

@@ -1,10 +1,12 @@
 ---
+publish: true
 title: prayer
-draft: false
+created: 2026-04-09T03:04:06.060+05:00
+modified: 2026-04-12T05:30:12.183+05:00
 tags:
   - islam
 ---
-___
-<iframe src="/salah-widget.html" width="100%" height="700px" style="border: none; overflow: hidden;"></iframe>
 
- 
+---
+
+<iframe src="/salah-widget.html" width="100%" height="700px" style="border: none; overflow: hidden;"></iframe>

@@ -1,9 +1,12 @@
 ---
+publish: true
+title: Quran
+created: 2026-03-12T06:10:30.729+05:00
+modified: 2026-03-15T03:59:27.827+05:00
 tags:
   - quran
-draft: false
-title: Quran
 ---
+
 [[1-Al-Fatihah]]
 [[2-Al-baqarah]]
 [[3-Al-imran]]

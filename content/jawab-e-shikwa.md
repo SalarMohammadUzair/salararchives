@@ -1,9 +1,12 @@
 ---
+publish: true
 title: Jawab-e-shikwa
-draft: false
+created: 2026-04-10T02:01:08.185+05:00
+modified: 2026-04-10T02:25:27.187+05:00
 tags:
   - iqbal
 ---
+
 <div style="text-align: center; max-width: 800px; margin: 0 auto; padding: 20px;">
 
   <h3>STANZA 1 - Jawab-e-Shikwa by Allama Iqbal</h3>
@@ -979,39 +982,48 @@ tags:
 
 </div>
  ___
- 
+
 # Foot notes
+
 man, I do not know where to begin.
->*Wisdom is your shield, love is your sword in your hand. Servant of God, the leadership of the world is at your command.*
+
+> _Wisdom is your shield, love is your sword in your hand. Servant of God, the leadership of the world is at your command._
 
 You already understand yourself as abd — servant and instrument of God. Iqbal is completing that thought: the abd doesn't sit. The abd is equipped and sent. Your studying is not separate from your covenant with God. It is the covenant being either honored or broken, every single day.
 
-___
+---
 
->*"To reach the Pleiades is a wish of all of you. First produce such a pure soul who can make this wish come true."*
+> _"To reach the Pleiades is a wish of all of you. First produce such a pure soul who can make this wish come true."_
 
 It is enough to make me tear up.
-this is actually what iqbal encapsulates in his other stanza 
-> *KHudi ko kar buland itna ki har taqdir se pahle  
-KHuda bande se KHud puchhe bata teri raza kya hai*
+this is actually what iqbal encapsulates in his other stanza
+
+> _KHudi ko kar buland itna ki har taqdir se pahle\
+> KHuda bande se KHud puchhe bata teri raza kya hai_
 
 Become so kabir, that the will of the akbar disolves into yours.
 this is not at all said in the premise of challenging god.
 The premise is to develop your sense of self, achieve self actualisation to such an extent where Akbar Acknowledges you, and uses you as his tool.
-You want to follow the *sunnah*? You want to become as great as jinnah, or the caliphs or the prophets? are you working to be as good as them so that allow bestows that grade of aura unto you?
-___
-> *"All of you are intoxicated by bodily indulgence, lead lives of ease without strife. You call yourself a Muslim. Is this the Muslim's way of life?"*
+You want to follow the _sunnah_? You want to become as great as jinnah, or the caliphs or the prophets? are you working to be as good as them so that allow bestows that grade of aura unto you?
+
+---
+
+> _"All of you are intoxicated by bodily indulgence, lead lives of ease without strife. You call yourself a Muslim. Is this the Muslim's way of life?"_
 
 You already know this — you've named your procrastination as arrogance, not weakness. Iqbal is confirming it. The ease you reach for — the scroll, the comfort, the drift — is an intoxication just as real as wine. It requires no less courage to put down.
 
-___
-> *"They were indeed your forefathers, but who are you? With idle hands you sit awaiting the dawn of a better tomorrow."*
+---
+
+> _"They were indeed your forefathers, but who are you? With idle hands you sit awaiting the dawn of a better tomorrow."_
 
 Legacy is worthless, nobody is coming.
-___
+
+---
+
 > "How burdensome is the dawn's awakening upon you, how loth you are to rise? When do you love us? It is your slumber that you prize."
 
-___
-> *"Limitless is Our bounty, but there is no one who is praying for it... If someone was worthy, We would raise him to regal splendour. Those who seek, We would unveil a new world of wonder."*
+---
 
-___
+> _"Limitless is Our bounty, but there is no one who is praying for it... If someone was worthy, We would raise him to regal splendour. Those who seek, We would unveil a new world of wonder."_
+
+---

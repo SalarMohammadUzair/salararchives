@@ -1,7 +1,10 @@
 ---
+publish: true
 title: homeserver lan
-image: /assets/rafael.png
 draft: true
+created: 2026-03-12T06:10:30.625+05:00
+modified: 2026-03-14T06:30:19.860+05:00
+socialImage: /assets/rafael.png
 ---
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-top: 1rem;">

@@ -1,12 +1,16 @@
 ---
-color: "default"
-pinned: false
-archived: false
-title: "Laylat-ul-Qadr"
-tags: [islam]
+publish: true
+title: Laylat-ul-Qadr
+created: 2026-03-15T01:14:34.519+05:00
+modified: 2026-05-22T02:21:01.030+05:00
+tags:
+  - islam
 ---
+
 ## The Quran
+
 > [!quote] Surah Al-Qadr (97)
+>
 > - 97:1 — Indeed, We sent down the Quran on the Night of Decree.
 > - 97:2 — And what will make you know what the Night of Decree is?
 > - 97:3 — The Night of Decree is better than a thousand months.

@@ -2668,7 +2668,7 @@
 22|73|O mankind! A similitude is coined, so pay ye heed to it: Lo! those on whom ye call beside Allah will never create a fly though they combine together for the purpose. And if the fly took something from them, they could not rescue it from it. So weak are (both) the seeker and the sought!
 22|74|They measure not Allah His rightful measure. Lo! Allah is Strong, Almighty.
 22|75|Allah chooseth from the angels messengers, and (also) from mankind. Lo! Allah is Hearer, Seer.
-22|76|He knoweth all that is before them and all that is behind them, and unto Allah all things are returned. $$A
+22|76|He knoweth all that is before them and all that is behind them, and unto Allah all things are returned. \$\$A
 22|77|O ye who believe! Bow down and prostrate yourselves, and worship your Lord, and do good, that haply ye may prosper.
 22|78|And strive for Allah with the endeavour which is His right. He hath chosen you and hath not laid upon you in religion any hardship; the faith of your father Abraham (is yours). He hath named you Muslims of old time and in this (Scripture), that the messenger may be a witness against you, and that ye may be witnesses against mankind. So establish worship, pay the poor-due, and hold fast to Allah. He is your Protecting friend. A blessed Patron and a blessed Helper!
 23|1|Successful indeed are the believers
@@ -6235,15 +6235,24 @@
 114|5|Who whispereth in the hearts of mankind,
 114|6|Of the jinn and of mankind.
 
-
 # --------------------------------------------------------------------
+
 #
-#  Quran Translation
-#  Name: Pickthall
-#  Translator: Mohammed Marmaduke William Pickthall
-#  Language: English
-#  ID: en.pickthall
-#  Last Update: September 4, 2010
-#  Source: Tanzil.net
+
+# Quran Translation
+
+# Name: Pickthall
+
+# Translator: Mohammed Marmaduke William Pickthall
+
+# Language: English
+
+# ID: en.pickthall
+
+# Last Update: September 4, 2010
+
+# Source: Tanzil.net
+
 #
+
 # --------------------------------------------------------------------
