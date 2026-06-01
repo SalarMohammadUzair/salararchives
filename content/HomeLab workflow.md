@@ -1,9 +1,8 @@
 ---
 publish: true
-title: change the name
-draft: true
+title: HomeLab workflow
 created: 2026-06-02T04:19:39.046+05:00
-modified: 2026-06-02T04:25:39.732+05:00
+modified: 2026-06-02T04:28:57.514+05:00
 tags:
   - excalidraw
 ---
