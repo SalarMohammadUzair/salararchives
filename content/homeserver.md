@@ -9,4 +9,4 @@ tags:
 My setup.
 ![[HomeLab workflow.excalidraw.md]]
 
-![[HomeLab workflow.svg]] should show up
+![[HomeLab workflow.excalidraw.png]] should show up
