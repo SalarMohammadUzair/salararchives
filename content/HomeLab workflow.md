@@ -2,7 +2,7 @@
 publish: true
 title: HomeLab workflow
 created: 2026-06-02T04:19:39.046+05:00
-modified: 2026-06-02T04:28:57.514+05:00
+modified: 2026-06-02T04:30:41.158+05:00
 tags:
   - excalidraw
 ---
@@ -11,58 +11,50 @@ tags:
 
 ## Text Elements
 
-🖥️ HP Z240  ·  i5-7500  ·  Proxmox Hypervisor ^qd804q6A
+🔀 Main Router\n:443 & :4443 forwarded ^NcTnrvit
 
-Ubuntu Server VM  ·  CasaOS ^T0xReLa6
+🖥️ HP Z240  ·  i5-7500  ·  3× 500 GB HDD  ·  256 GB SSD  |  Proxmox → Ubuntu Server VM → CasaOS ^0f33ObqF
 
-🔀 NGINX Proxy Manager ^SJfP1639
+🔀 NGINX Proxy Manager ^Rm8gUgA7
 
-Containers ^6XOgvLDp
+⚙️ Infrastructure ^xlQZgxfi
 
-☁️ Nextcloud ^evxA6uHA
+🛡️ AdGuard Home ^vckApdVs
 
-🛡️ AdGuard Home ^mQ8EdxuL
+🏠 Home Assistant ^VRRhBNpQ
 
-⬇️ qBittorrent ^b7WUxNmi
+qBittorrent ^O1wcOb6M
 
-🔮 Obsidian LiveSync ^bJLDzpuZ
+🗂️ Productivity ^9PQMxusO
 
-▶️ Stremio ^PZo7E6Lk
+Obsidian LiveSync ^GTLESs1U
 
-🔖 Karakeep ^h1cJuWDJ
+AFFiNE ^3irTifAm
 
-🎵 Navidrome ^uZtDa1C0
+✏️ Excalidraw ^w461AS60
 
-✏️ Excalidraw ^EtlDsxy8
+Karakeep ^AaIsuYJM
 
-📸 Immich ^iF5ilyjl
+📁 Files & Backup ^Neal1v9m
 
-📺 Jellyfin ^qaxSDrvp
+☁️ Nextcloud ^iv0pGBhy
 
-🏠 Home Assistant ^FfwQMGDn
+📸 Immich ^yczdCA3h
 
-💾 Backrest ^P8kemlMr
+Backrest ^Heosn940
 
-📹 MeTube ^huPdh46X
+📺 Media ^4AeAyLGA
 
-📝 AFFiNE ^hOlADDEK
+Jellyfin ^4IfahCuD
 
-Storage ^LINcXxrF
+🎵 Navidrome ^XigJSEgs
 
-💿 500 GB HDD ^XGLlk2Qk
+MeTube ^MLvqtRuk
 
-💿 500 GB HDD ^eTLDEPsF
+Stremio ^oeiUqLFt
 
-💿 500 GB HDD ^ro3spMHs
+🌐 Internet ^cGngip2o
 
-💽 256 GB SSD ^fVH3ap1N
+📡 AP Router — AP Mode ^BXLYtV0A
 
-🌐 Internet ^4UmdHKVe
-
-🔀 Main Router\nPorts :443 & :4443 forwarded ^JBCP9diy
-
-📡 AP Router\nAP Mode ^707rmHsL
-
-:443 & :4443 ^sdmSVq3X
-
-LAN ^rm4a3KAh
+:443 & :4443 ^CJKCAaXM
