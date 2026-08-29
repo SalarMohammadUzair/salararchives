@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 99-Az-Zalzalah
-created: 2026-03-15T03:43:43.689+05:00
-modified: 2026-03-21T12:14:56.304+05:00
+created: 2026-03-14T22:43:43.689Z
+modified: 2026-03-21T07:14:56.304Z
 tags:
   - quran
 ---

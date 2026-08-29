@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Allama Iqbal
-created: 2026-06-02T02:11:30.736+05:00
-modified: 2026-06-02T02:15:44.223+05:00
+created: 2026-06-01T21:11:30.736Z
+modified: 2026-06-01T21:15:44.223Z
 tags:
   - iqbal
 ---

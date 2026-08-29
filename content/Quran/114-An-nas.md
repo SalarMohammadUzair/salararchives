@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 114-An-nas
-created: 2026-03-15T03:08:37.241+05:00
-modified: 2026-04-19T04:23:11.679+05:00
+created: 2026-03-14T22:08:37.241Z
+modified: 2026-04-18T23:23:11.679Z
 tags:
   - quran
 ---

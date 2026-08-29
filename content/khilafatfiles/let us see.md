@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-03-12T06:10:30.905+05:00
-modified: 2026-04-19T04:56:23.712+05:00
+created: 2026-03-12T01:10:30.905Z
+modified: 2026-04-18T23:56:23.712Z
 ---
 
 ![[assets/pray.jpg]]

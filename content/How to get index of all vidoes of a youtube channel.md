@@ -1,8 +1,8 @@
 ---
 publish: true
 title: How to get index of all vidoes of a youtube channel
-created: 2026-03-20T06:43:54.414+05:00
-modified: 2026-03-20T06:49:15.180+05:00
+created: 2026-03-20T01:43:54.414Z
+modified: 2026-03-20T01:49:15.180Z
 tags:
   - code
 ---

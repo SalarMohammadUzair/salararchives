@@ -1,8 +1,8 @@
 ---
 publish: true
 title: GamePlan
-created: 2026-03-12T06:10:31.014+05:00
-modified: 2026-03-15T05:14:03.225+05:00
+created: 2026-03-12T01:10:31.014Z
+modified: 2026-03-15T00:14:03.225Z
 ---
 
 I'm determined to finish the quran before my 19th birthday ( august). you cannot call yourself and adult muslim if you not even know what you be following. so...

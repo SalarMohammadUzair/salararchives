@@ -2,8 +2,8 @@
 publish: true
 title: homeserver lan
 draft: true
-created: 2026-03-12T06:10:30.625+05:00
-modified: 2026-03-14T06:30:19.860+05:00
+created: 2026-03-12T01:10:30.625Z
+modified: 2026-03-14T01:30:19.860Z
 socialImage: /assets/rafael.png
 ---
 

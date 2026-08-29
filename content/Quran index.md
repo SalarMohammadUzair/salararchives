@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Quran
-created: 2026-03-12T06:10:30.729+05:00
-modified: 2026-03-15T03:59:27.827+05:00
+created: 2026-03-12T01:10:30.729Z
+modified: 2026-03-14T22:59:27.827Z
 tags:
   - quran
 ---

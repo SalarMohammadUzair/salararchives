@@ -2,8 +2,8 @@
 publish: true
 title: How can A man be brought to tears.
 draft: true
-created: 2026-03-30T02:36:16.136+05:00
-modified: 2026-03-30T02:36:45.229+05:00
+created: 2026-03-29T21:36:16.136Z
+modified: 2026-03-29T21:36:45.229Z
 tags:
   - iqbal
 ---

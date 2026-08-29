@@ -1,8 +1,8 @@
 ---
 publish: true
 title: tinariwen
-created: 2026-03-12T06:10:30.737+05:00
-modified: 2026-02-10T03:03:56.495+05:00
+created: 2026-03-12T01:10:30.737Z
+modified: 2026-02-09T22:03:56.495Z
 ---
 
 > [!note] cool fact

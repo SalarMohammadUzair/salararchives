@@ -1,8 +1,8 @@
 ---
 publish: true
 title: The Universal Axiom
-created: 2026-05-24T20:36:43.918+05:00
-modified: 2026-05-24T23:31:01.301+05:00
+created: 2026-05-24T15:36:43.918Z
+modified: 2026-05-24T18:31:01.301Z
 ---
 
 # we do not fully understand the universe.

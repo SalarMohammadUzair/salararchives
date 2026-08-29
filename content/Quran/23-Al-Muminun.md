@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 23-Al-Muminun
-created: 2026-03-15T03:39:58.556+05:00
-modified: 2026-03-20T08:55:01.570+05:00
+created: 2026-03-14T22:39:58.556Z
+modified: 2026-03-20T03:55:01.570Z
 tags:
   - quran
 ---

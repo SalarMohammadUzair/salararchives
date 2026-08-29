@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Even the water is subdued
-created: 2026-03-18T22:26:45.064+05:00
-modified: 2026-03-18T22:45:17.241+05:00
+created: 2026-03-18T17:26:45.064Z
+modified: 2026-03-18T17:45:17.241Z
 tags:
   - iqbal
 ---

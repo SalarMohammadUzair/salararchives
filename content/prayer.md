@@ -1,8 +1,8 @@
 ---
 publish: true
 title: prayer
-created: 2026-04-09T03:04:06.060+05:00
-modified: 2026-04-12T05:30:12.183+05:00
+created: 2026-04-08T22:04:06.060Z
+modified: 2026-04-12T00:30:12.183Z
 tags:
   - islam
 ---

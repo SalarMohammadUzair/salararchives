@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Zabur-e-Ajam — Part 2, Ghazal 14
-created: 2026-03-18T21:33:58.342+05:00
-modified: 2026-03-18T22:42:51.803+05:00
+created: 2026-03-18T16:33:58.342Z
+modified: 2026-03-18T17:42:51.803Z
 tags:
   - iqbal
 ---

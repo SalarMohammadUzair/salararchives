@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 3-Al-Imran
-created: 2026-03-12T06:10:30.999+05:00
-modified: 2026-05-30T23:05:28.978+05:00
+created: 2026-03-12T01:10:30.999Z
+modified: 2026-05-30T18:05:28.978Z
 tags:
   - quran
 ---

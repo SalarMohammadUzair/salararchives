@@ -1,8 +1,8 @@
 ---
 publish: true
 title: kya hai
-created: 2026-03-16T02:03:24.606+05:00
-modified: 2026-04-06T18:37:09.326+05:00
+created: 2026-03-15T21:03:24.606Z
+modified: 2026-04-06T13:37:09.326Z
 tags:
   - iqbal
 ---

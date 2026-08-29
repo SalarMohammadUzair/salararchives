@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Jawab-e-shikwa
-created: 2026-04-10T02:01:08.185+05:00
-modified: 2026-04-10T02:25:27.187+05:00
+created: 2026-04-09T21:01:08.185Z
+modified: 2026-04-09T21:25:27.187Z
 tags:
   - iqbal
 ---
