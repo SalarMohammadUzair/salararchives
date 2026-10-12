@@ -1,8 +1,8 @@
 ---
 publish: true
 title: salararchives
-created: 2026-03-12T01:10:30.682Z
-modified: 2026-06-01T21:18:01.489Z
+created: 2026-06-14T16:54:11.244Z
+modified: 2026-06-14T16:54:11.244Z
 socialImage: /assets/rafael.png
 ---
 

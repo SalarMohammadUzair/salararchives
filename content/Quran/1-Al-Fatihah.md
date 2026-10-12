@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 1-Al-Fatihah
-created: 2026-03-12T01:10:30.969Z
-modified: 2026-05-21T21:21:26.322Z
+created: 2026-06-14T16:54:10.470Z
+modified: 2026-06-14T16:54:10.470Z
 tags:
   - quran
 ---

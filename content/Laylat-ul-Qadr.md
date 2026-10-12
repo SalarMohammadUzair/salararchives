@@ -1,8 +1,8 @@
 ---
 publish: true
 title: Laylat-ul-Qadr
-created: 2026-03-14T20:14:34.519Z
-modified: 2026-05-21T21:21:01.030Z
+created: 2026-06-14T16:54:10.717Z
+modified: 2026-06-14T16:54:10.717Z
 tags:
   - islam
 ---

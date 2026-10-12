@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 2-Al-baqarah
-created: 2026-03-12T01:10:30.987Z
-modified: 2026-05-30T18:05:42.724Z
+created: 2026-06-14T16:54:12.902Z
+modified: 2026-06-14T16:54:12.902Z
 tags:
   - quran
 ---

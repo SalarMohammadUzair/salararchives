@@ -1,8 +1,8 @@
 ---
 publish: true
 title: 4-An-nisa
-created: 2026-03-14T22:11:03.017Z
-modified: 2026-05-30T18:05:37.340Z
+created: 2026-06-14T16:54:12.901Z
+modified: 2026-06-14T16:54:12.901Z
 tags:
   - quran
 ---
